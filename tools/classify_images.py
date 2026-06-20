@@ -729,6 +729,7 @@ def run(
     vision_shots: int,
     github_token: Optional[str],
     message: Optional[str],
+    commit_batch_entries: int,
     dry_run: bool,
 ) -> dict:
     if not HAS_PIL:
@@ -774,6 +775,22 @@ def run(
 
     entries: list[dict] = []          # Git tree changes to commit
     grand = {"useful": 0, "not_useful": 0, "uncertain": 0, "total": 0}
+    commits: list[str] = []
+
+    def commit_batch(final: bool = False) -> None:
+        if dry_run or not entries:
+            return
+        number = len(commits) + 1
+        suffix = "" if final else f" (batch {number})"
+        batch_message = message or "classify images for hardware dataset use"
+        try:
+            sha = gh.commit_changes(loc.owner, loc.repo, branch, list(entries),
+                                    batch_message + suffix)
+        except GitHubError as e:
+            raise GitHubError(f"Commit batch {number} failed: {e}") from e
+        commits.append(sha)
+        log.info("Committed batch %d (%d tree entries): %s", number, len(entries), sha[:10])
+        entries.clear()
 
     for root, images in sorted(roots.items()):
         log.info("--- %s : %d image(s) ---", root or "<repo root>", len(images))
@@ -794,19 +811,18 @@ def run(
         _plan_reports(root, verdicts, entries)
         for k in grand:
             grand[k] += _counts(verdicts)[k]
+        if len(entries) >= commit_batch_entries:
+            commit_batch()
 
     if dry_run:
         log.info("DRY RUN — %d image(s) classified, nothing committed.", grand["total"])
-    elif not entries:
-        log.info("Nothing to commit.")
     else:
-        msg = message or (f"classify images: {grand['useful']} useful / "
-                          f"{grand['not_useful']} not_useful / {grand['uncertain']} uncertain")
-        try:
-            sha = gh.commit_changes(loc.owner, loc.repo, branch, entries, msg)
-            log.info("Committed %s to %s/%s@%s", sha[:10], loc.owner, loc.repo, branch)
-        except GitHubError as e:
-            log.error("Commit failed: %s", e)
+        commit_batch(final=True)
+        if commits:
+            log.info("Committed %d batch(es) to %s/%s@%s", len(commits),
+                     loc.owner, loc.repo, branch)
+        else:
+            log.info("Nothing to commit.")
 
     log.info("=" * 60)
     log.info("SUMMARY: %s", json.dumps(grand, indent=2))
@@ -833,7 +849,7 @@ def _plan_move(v: Verdict, root: str, path: str,
 
 
 def _plan_reports(root: str, verdicts: list[Verdict], entries: list[dict]) -> None:
-    """Add the manifest (and meta.json update if it can be assumed) as text blobs."""
+    """Add the per-project classification manifest as a text blob."""
     manifest = {"summary": _counts(verdicts), "images": [vars(v) for v in verdicts]}
     manifest_path = f"{root}/image_classification.json" if root else "image_classification.json"
     entries.append({"path": manifest_path, "mode": "100644", "type": "blob",
@@ -874,6 +890,8 @@ def main(argv: Optional[list[str]] = None) -> int:
                         help="GitHub token with write access (or env GITHUB_TOKEN).")
     parser.add_argument("--message", type=str, default=None,
                         help="Override the commit message.")
+    parser.add_argument("--commit-batch-entries", type=int, default=400,
+                        help="Maximum Git tree entries per commit batch (default: 400).")
     parser.add_argument("--dry-run", action="store_true",
                         help="Classify and report only; commit nothing.")
     parser.add_argument("--verbose", "-v", action="store_true", help="Debug logging.")
@@ -893,6 +911,7 @@ def main(argv: Optional[list[str]] = None) -> int:
             vision_shots=args.vision_shots,
             github_token=args.github_token,
             message=args.message,
+            commit_batch_entries=max(1, args.commit_batch_entries),
             dry_run=args.dry_run,
         )
     except URLParseError as e:
