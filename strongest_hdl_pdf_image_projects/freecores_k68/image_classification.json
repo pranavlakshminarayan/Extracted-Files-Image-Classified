@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "useful": 0,
+    "not_useful": 1,
+    "uncertain": 0,
+    "total": 1
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_k68/images/title_logo.gif",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): logo",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_k68/image_categories/non_useful/images/title_logo.gif"
+    }
+  ]
+}

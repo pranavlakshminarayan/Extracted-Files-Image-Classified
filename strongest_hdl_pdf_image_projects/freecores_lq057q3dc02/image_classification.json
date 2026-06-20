@@ -1,0 +1,82 @@
+{
+  "summary": {
+    "useful": 1,
+    "not_useful": 7,
+    "uncertain": 1,
+    "total": 9
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_lq057q3dc02/images/all_cols_320x40.bmp",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 320x40",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_lq057q3dc02/image_categories/non_useful/images/all_cols_320x40.bmp"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_lq057q3dc02/images/all_rows_40x240.bmp",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 40x240",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_lq057q3dc02/image_categories/non_useful/images/all_rows_40x240.bmp"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_lq057q3dc02/images/boxes_160x120.bmp",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_lq057q3dc02/image_categories/review/images/boxes_160x120.bmp"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_lq057q3dc02/images/headers_J1234_pinout_box.JPG",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): pinout",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_lq057q3dc02/image_categories/useful/images/headers_J1234_pinout_box.JPG"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_lq057q3dc02/images/pixels_2x2.bmp",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 2x2",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_lq057q3dc02/image_categories/non_useful/images/pixels_2x2.bmp"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_lq057q3dc02/images/pixels_3x2.bmp",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 3x2",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_lq057q3dc02/image_categories/non_useful/images/pixels_3x2.bmp"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_lq057q3dc02/images/shrooms_320x240.bmp",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): shrooms",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_lq057q3dc02/image_categories/non_useful/images/shrooms_320x240.bmp"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_lq057q3dc02/images/smiley_30x32.bmp",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): smiley",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_lq057q3dc02/image_categories/non_useful/images/smiley_30x32.bmp"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_lq057q3dc02/images/tie_dye_320x240.bmp",
+      "label": "not_useful",
+      "confidence": 0.7,
+      "method": "visual_heuristic",
+      "reason": "photo-like visual features; hardware photos are excluded from the diagram dataset",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_lq057q3dc02/image_categories/non_useful/images/tie_dye_320x240.bmp"
+    }
+  ]
+}

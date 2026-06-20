@@ -1,0 +1,42 @@
+{
+  "summary": {
+    "useful": 0,
+    "not_useful": 0,
+    "uncertain": 4,
+    "total": 4
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_dirac/images/Decoder_Top.svg",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "could not decode image (install svglib/cairosvg for SVG)",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_dirac/image_categories/review/images/Decoder_Top.svg"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_dirac/images/Motion_Decoding.svg",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "could not decode image (install svglib/cairosvg for SVG)",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_dirac/image_categories/review/images/Motion_Decoding.svg"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_dirac/images/Residual_decoding.svg",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "could not decode image (install svglib/cairosvg for SVG)",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_dirac/image_categories/review/images/Residual_decoding.svg"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_dirac/images/Signal_paths.svg",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "could not decode image (install svglib/cairosvg for SVG)",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_dirac/image_categories/review/images/Signal_paths.svg"
+    }
+  ]
+}

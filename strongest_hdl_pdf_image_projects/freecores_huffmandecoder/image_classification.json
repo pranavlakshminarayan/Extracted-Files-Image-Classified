@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "useful": 0,
+    "not_useful": 1,
+    "uncertain": 0,
+    "total": 1
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_huffmandecoder/images/test.jpg",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 8x8",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_huffmandecoder/image_categories/non_useful/images/test.jpg"
+    }
+  ]
+}

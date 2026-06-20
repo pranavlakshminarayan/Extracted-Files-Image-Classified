@@ -1,0 +1,26 @@
+{
+  "summary": {
+    "useful": 0,
+    "not_useful": 0,
+    "uncertain": 2,
+    "total": 2
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_fpga-cf/images/availProto.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_fpga-cf/image_categories/review/images/availProto.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_fpga-cf/images/configProto.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_fpga-cf/image_categories/review/images/configProto.png"
+    }
+  ]
+}

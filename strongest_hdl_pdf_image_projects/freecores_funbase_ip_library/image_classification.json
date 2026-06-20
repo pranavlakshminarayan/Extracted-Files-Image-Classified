@@ -1,0 +1,186 @@
+{
+  "summary": {
+    "useful": 1,
+    "not_useful": 4,
+    "uncertain": 17,
+    "total": 22
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_funbase_ip_library/images/TUT.board.arria_ii_board.1.0.hierarchical.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): board",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_funbase_ip_library/image_categories/non_useful/images/TUT.board.arria_ii_board.1.0.hierarchical.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_funbase_ip_library/images/TUT.board.arria_ii_board.1.0.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): board",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_funbase_ip_library/image_categories/non_useful/images/TUT.board.arria_ii_board.1.0.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_funbase_ip_library/images/TUT.board.pc_board.1.0.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): board",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_funbase_ip_library/image_categories/non_useful/images/TUT.board.pc_board.1.0.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_funbase_ip_library/images/TUT.chip.arria_ii.1.0.hierarchical.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_funbase_ip_library/image_categories/review/images/TUT.chip.arria_ii.1.0.hierarchical.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_funbase_ip_library/images/TUT.chip.arria_ii.1.0.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_funbase_ip_library/image_categories/review/images/TUT.chip.arria_ii.1.0.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_funbase_ip_library/images/TUT.chip.ddr2_memory.1.0.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_funbase_ip_library/image_categories/review/images/TUT.chip.ddr2_memory.1.0.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_funbase_ip_library/images/TUT.ip.hwp.accelerator.picture_manip.1.0.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_funbase_ip_library/image_categories/review/images/TUT.ip.hwp.accelerator.picture_manip.1.0.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_funbase_ip_library/images/TUT.ip.hwp.communication.hibi_segment_small.2.0.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_funbase_ip_library/image_categories/review/images/TUT.ip.hwp.communication.hibi_segment_small.2.0.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_funbase_ip_library/images/TUT.ip.hwp.interface.pcie_to_hibi_4x.1.0.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_funbase_ip_library/image_categories/review/images/TUT.ip.hwp.interface.pcie_to_hibi_4x.1.0.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_funbase_ip_library/images/TUT.ip.hwp.storage.a2_ddr2_dimm_1GB.2.0.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_funbase_ip_library/image_categories/review/images/TUT.ip.hwp.storage.a2_ddr2_dimm_1GB.2.0.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_funbase_ip_library/images/TUT.ip.hwp.storage.hibi_mem_dma.2.0.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_funbase_ip_library/image_categories/review/images/TUT.ip.hwp.storage.hibi_mem_dma.2.0.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_funbase_ip_library/images/TUT.product.pc_arria_ii_gx.1.0.hierachical.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_funbase_ip_library/image_categories/review/images/TUT.product.pc_arria_ii_gx.1.0.hierachical.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_funbase_ip_library/images/TUT.product.pc_arria_ii_gx.1.0.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_funbase_ip_library/image_categories/review/images/TUT.product.pc_arria_ii_gx.1.0.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_funbase_ip_library/images/TUT.soc.arria_ii_gx_demo_soc.1.0.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_funbase_ip_library/image_categories/review/images/TUT.soc.arria_ii_gx_demo_soc.1.0.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_funbase_ip_library/images/TUT.soc.arria_ii_gx_demo_soc.1.0.structural.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_funbase_ip_library/image_categories/review/images/TUT.soc.arria_ii_gx_demo_soc.1.0.structural.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_funbase_ip_library/images/hibi_mem_dma_resource_usage.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_funbase_ip_library/image_categories/review/images/hibi_mem_dma_resource_usage.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_funbase_ip_library/images/manip_memory_wave0.jpg",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_funbase_ip_library/image_categories/review/images/manip_memory_wave0.jpg"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_funbase_ip_library/images/manip_memory_wave1.jpg",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_funbase_ip_library/image_categories/review/images/manip_memory_wave1.jpg"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_funbase_ip_library/images/manip_memory_wave2.jpg",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_funbase_ip_library/image_categories/review/images/manip_memory_wave2.jpg"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_funbase_ip_library/images/nios_ii_qsys_00.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_funbase_ip_library/image_categories/review/images/nios_ii_qsys_00.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_funbase_ip_library/images/state_diagram.bmp",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): diagram, state",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_funbase_ip_library/image_categories/useful/images/state_diagram.bmp"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_funbase_ip_library/images/tty_logo.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): logo",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_funbase_ip_library/image_categories/non_useful/images/tty_logo.png"
+    }
+  ]
+}

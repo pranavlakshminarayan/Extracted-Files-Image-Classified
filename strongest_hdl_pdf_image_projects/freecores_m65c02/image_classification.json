@@ -1,0 +1,106 @@
+{
+  "summary": {
+    "useful": 2,
+    "not_useful": 0,
+    "uncertain": 10,
+    "total": 12
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_m65c02/images/FSM-BubbleDiagram.JPG",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): fsm",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_m65c02/image_categories/useful/images/FSM-BubbleDiagram.JPG"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_m65c02/images/M65C02 Timing Diagram.JPG",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): diagram, timing",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_m65c02/image_categories/useful/images/M65C02 Timing Diagram.JPG"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_m65c02/images/M65C02-TestBoard-20130703.JPG",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_m65c02/image_categories/review/images/M65C02-TestBoard-20130703.JPG"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_m65c02/images/M65C02_ALU.jpg",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_m65c02/image_categories/review/images/M65C02_ALU.jpg"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_m65c02/images/M65C02_Core.JPG",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_m65c02/image_categories/review/images/M65C02_Core.JPG"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_m65c02/images/M65C02_FlowControl_Immediate_Cycles.JPG",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_m65c02/image_categories/review/images/M65C02_FlowControl_Immediate_Cycles.JPG"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_m65c02/images/M65C02_Implicit_Accumulator_Cycles.JPG",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_m65c02/image_categories/review/images/M65C02_Implicit_Accumulator_Cycles.JPG"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_m65c02/images/M65C02_MPC.JPG",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_m65c02/image_categories/review/images/M65C02_MPC.JPG"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_m65c02/images/M65C02_RMW_zp_zpX_abs_absX_Cycles.JPG",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_m65c02/image_categories/review/images/M65C02_RMW_zp_zpX_abs_absX_Cycles.JPG"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_m65c02/images/M65C02_abs_absX_absY_Cycles.JPG",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_m65c02/image_categories/review/images/M65C02_abs_absX_absY_Cycles.JPG"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_m65c02/images/M65C02_zpI_zpXI_zpIY_Cycles.JPG",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_m65c02/image_categories/review/images/M65C02_zpI_zpXI_zpIY_Cycles.JPG"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_m65c02/images/M65C02_zp_zpX_Cycles.JPG",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_m65c02/image_categories/review/images/M65C02_zp_zpX_Cycles.JPG"
+    }
+  ]
+}

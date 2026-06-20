@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "useful": 1,
+    "not_useful": 0,
+    "uncertain": 0,
+    "total": 1
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_g729a_codec/images/wave_27ms.bmp",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): wave",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_g729a_codec/image_categories/useful/images/wave_27ms.bmp"
+    }
+  ]
+}

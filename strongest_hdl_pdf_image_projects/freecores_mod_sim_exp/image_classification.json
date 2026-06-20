@@ -1,0 +1,34 @@
+{
+  "summary": {
+    "useful": 0,
+    "not_useful": 3,
+    "uncertain": 0,
+    "total": 3
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_mod_sim_exp/images/OCsmall.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 13x13",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_mod_sim_exp/image_categories/non_useful/images/OCsmall.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_mod_sim_exp/images/logos.jpg",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): logos",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_mod_sim_exp/image_categories/non_useful/images/logos.jpg"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_mod_sim_exp/images/opencores.jpg",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): opencores",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_mod_sim_exp/image_categories/non_useful/images/opencores.jpg"
+    }
+  ]
+}

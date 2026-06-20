@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "useful": 1,
+    "not_useful": 0,
+    "uncertain": 0,
+    "total": 1
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_mips_16/images/architecture.jpg",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): architecture",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_mips_16/image_categories/useful/images/architecture.jpg"
+    }
+  ]
+}
