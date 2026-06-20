@@ -1,0 +1,42 @@
+{
+  "summary": {
+    "useful": 0,
+    "not_useful": 0,
+    "uncertain": 4,
+    "total": 4
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_z80soc/images/charram2k_wave0.jpg",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_z80soc/image_categories/review/images/charram2k_wave0.jpg"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_z80soc/images/rom_wave0.jpg",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_z80soc/image_categories/review/images/rom_wave0.jpg"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_z80soc/images/rom_wave1.jpg",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_z80soc/image_categories/review/images/rom_wave1.jpg"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_z80soc/images/vram3200x8_wave0.jpg",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_z80soc/image_categories/review/images/vram3200x8_wave0.jpg"
+    }
+  ]
+}

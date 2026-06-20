@@ -1,0 +1,314 @@
+{
+  "summary": {
+    "useful": 1,
+    "not_useful": 17,
+    "uncertain": 20,
+    "total": 38
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/images/Architecture.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): architecture",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/image_categories/useful/images/Architecture.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/images/classAC.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/image_categories/review/images/classAC.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/images/classAC_1_1behave.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/image_categories/review/images/classAC_1_1behave.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/images/classALU.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/image_categories/review/images/classALU.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/images/classALU_1_1behave.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/image_categories/review/images/classALU_1_1behave.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/images/classB__Reg.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/image_categories/review/images/classB__Reg.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/images/classB__Reg_1_1behave.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/image_categories/review/images/classB__Reg_1_1behave.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/images/classCU.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 43x192",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/image_categories/non_useful/images/classCU.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/images/classCU_1_1fsm.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 43x192",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/image_categories/non_useful/images/classCU_1_1fsm.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/images/classIR.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/image_categories/review/images/classIR.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/images/classIRDec.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/image_categories/review/images/classIRDec.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/images/classIRDec_1_1behave.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/image_categories/review/images/classIRDec_1_1behave.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/images/classIR_1_1behave.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/image_categories/review/images/classIR_1_1behave.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/images/classMAR.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/image_categories/review/images/classMAR.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/images/classMAR_1_1behave.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/image_categories/review/images/classMAR_1_1behave.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/images/classMP.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/image_categories/review/images/classMP.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/images/classMP_1_1struct.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/image_categories/review/images/classMP_1_1struct.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/images/classO.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/image_categories/review/images/classO.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/images/classO_1_1behave.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/image_categories/review/images/classO_1_1behave.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/images/classPC.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/image_categories/review/images/classPC.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/images/classPC_1_1behave.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/image_categories/review/images/classPC_1_1behave.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/images/classROM__16__8.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/image_categories/review/images/classROM__16__8.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/images/classROM__16__8_1_1behave.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/image_categories/review/images/classROM__16__8_1_1behave.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/images/close.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 11x11",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/image_categories/non_useful/images/close.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/images/doxygen.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): doxygen",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/image_categories/non_useful/images/doxygen.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/images/ftv2blank.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 16x22",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/image_categories/non_useful/images/ftv2blank.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/images/ftv2doc.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 24x22",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/image_categories/non_useful/images/ftv2doc.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/images/ftv2folderclosed.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 24x22",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/image_categories/non_useful/images/ftv2folderclosed.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/images/ftv2folderopen.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 24x22",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/image_categories/non_useful/images/ftv2folderopen.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/images/ftv2lastnode.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 16x22",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/image_categories/non_useful/images/ftv2lastnode.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/images/ftv2link.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 24x22",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/image_categories/non_useful/images/ftv2link.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/images/ftv2mlastnode.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 16x22",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/image_categories/non_useful/images/ftv2mlastnode.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/images/ftv2mnode.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 16x22",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/image_categories/non_useful/images/ftv2mnode.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/images/ftv2node.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 16x22",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/image_categories/non_useful/images/ftv2node.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/images/ftv2plastnode.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 16x22",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/image_categories/non_useful/images/ftv2plastnode.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/images/ftv2pnode.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 16x22",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/image_categories/non_useful/images/ftv2pnode.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/images/ftv2vertline.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 16x22",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/image_categories/non_useful/images/ftv2vertline.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/images/search.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 20x16",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_8-bit_up/image_categories/non_useful/images/search.png"
+    }
+  ]
+}

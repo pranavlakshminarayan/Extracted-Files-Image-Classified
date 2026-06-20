@@ -1,0 +1,66 @@
+{
+  "summary": {
+    "useful": 0,
+    "not_useful": 0,
+    "uncertain": 7,
+    "total": 7
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_versatile_fifo/images/async.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_versatile_fifo/image_categories/review/images/async.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_versatile_fifo/images/flow_vfsm.jpg",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_versatile_fifo/image_categories/review/images/flow_vfsm.jpg"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_versatile_fifo/images/lego.jpg",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_versatile_fifo/image_categories/review/images/lego.jpg"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_versatile_fifo/images/overview.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_versatile_fifo/image_categories/review/images/overview.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_versatile_fifo/images/sd-flash.jpg",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_versatile_fifo/image_categories/review/images/sd-flash.jpg"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_versatile_fifo/images/sd_flash.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_versatile_fifo/image_categories/review/images/sd_flash.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_versatile_fifo/images/sync.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_versatile_fifo/image_categories/review/images/sync.png"
+    }
+  ]
+}

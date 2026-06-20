@@ -1,0 +1,26 @@
+{
+  "summary": {
+    "useful": 0,
+    "not_useful": 0,
+    "uncertain": 2,
+    "total": 2
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_trigonometric_functions_in_double_fpu/images/simuation for u1 instantiation.jpg",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_trigonometric_functions_in_double_fpu/image_categories/review/images/simuation for u1 instantiation.jpg"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_trigonometric_functions_in_double_fpu/images/simulation for top.jpg",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_trigonometric_functions_in_double_fpu/image_categories/review/images/simulation for top.jpg"
+    }
+  ]
+}

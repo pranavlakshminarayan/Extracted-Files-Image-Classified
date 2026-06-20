@@ -1,0 +1,194 @@
+{
+  "summary": {
+    "useful": 3,
+    "not_useful": 9,
+    "uncertain": 11,
+    "total": 23
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_zpu/images/GCC_logo.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): logo",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_zpu/image_categories/non_useful/images/GCC_logo.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_zpu/images/codesize1.PNG",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_zpu/image_categories/review/images/codesize1.PNG"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_zpu/images/codesize2.PNG",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_zpu/image_categories/review/images/codesize2.PNG"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_zpu/images/compile.PNG",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_zpu/image_categories/review/images/compile.PNG"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_zpu/images/dot_graph_1.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_zpu/image_categories/review/images/dot_graph_1.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_zpu/images/ecos.gif",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 111x35",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_zpu/image_categories/non_useful/images/ecos.gif"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_zpu/images/elizadebug1.PNG",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_zpu/image_categories/review/images/elizadebug1.PNG"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_zpu/images/elizadebug2.PNG",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_zpu/image_categories/review/images/elizadebug2.PNG"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_zpu/images/gccgdb.PNG",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_zpu/image_categories/review/images/gccgdb.PNG"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_zpu/images/simulator.PNG",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_zpu/image_categories/review/images/simulator.PNG"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_zpu/images/simulator2.PNG",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_zpu/image_categories/review/images/simulator2.PNG"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_zpu/images/simulator3.PNG",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_zpu/image_categories/review/images/simulator3.PNG"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_zpu/images/spi_read_timing.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): timing",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_zpu/image_categories/useful/images/spi_read_timing.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_zpu/images/spi_readfast_timing.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): timing",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_zpu/image_categories/useful/images/spi_readfast_timing.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_zpu/images/spi_timing_overview.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): timing",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_zpu/image_categories/useful/images/spi_timing_overview.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_zpu/images/v2html-b1.gif",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 27x18",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_zpu/image_categories/non_useful/images/v2html-b1.gif"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_zpu/images/v2html-b2.gif",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 27x18",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_zpu/image_categories/non_useful/images/v2html-b2.gif"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_zpu/images/v2html-b3.gif",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 27x18",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_zpu/image_categories/non_useful/images/v2html-b3.gif"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_zpu/images/v2html-c.gif",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 27x18",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_zpu/image_categories/non_useful/images/v2html-c.gif"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_zpu/images/v2html-i.gif",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 4x7",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_zpu/image_categories/non_useful/images/v2html-i.gif"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_zpu/images/v2html-up.gif",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 27x18",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_zpu/image_categories/non_useful/images/v2html-up.gif"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_zpu/images/v2html-x.gif",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 20x18",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_zpu/image_categories/non_useful/images/v2html-x.gif"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_zpu/images/zpusim.PNG",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_zpu/image_categories/review/images/zpusim.PNG"
+    }
+  ]
+}

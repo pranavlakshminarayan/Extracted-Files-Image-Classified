@@ -1,0 +1,26 @@
+{
+  "summary": {
+    "useful": 1,
+    "not_useful": 0,
+    "uncertain": 1,
+    "total": 2
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_waveform_gen/images/spectrum_1_7MHz.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_waveform_gen/image_categories/review/images/spectrum_1_7MHz.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_waveform_gen/images/waveform_block_diag.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): block, waveform",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_waveform_gen/image_categories/useful/images/waveform_block_diag.png"
+    }
+  ]
+}

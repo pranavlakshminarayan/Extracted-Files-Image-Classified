@@ -1,0 +1,26 @@
+{
+  "summary": {
+    "useful": 1,
+    "not_useful": 0,
+    "uncertain": 1,
+    "total": 2
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_uart_fpga_slow_control/images/UART_wr.bmp",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_uart_fpga_slow_control/image_categories/review/images/UART_wr.bmp"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_uart_fpga_slow_control/images/testbench_wave.PNG",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): wave",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_uart_fpga_slow_control/image_categories/useful/images/testbench_wave.PNG"
+    }
+  ]
+}

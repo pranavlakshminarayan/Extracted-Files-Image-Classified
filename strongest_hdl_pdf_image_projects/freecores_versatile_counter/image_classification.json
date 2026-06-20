@@ -1,0 +1,42 @@
+{
+  "summary": {
+    "useful": 1,
+    "not_useful": 0,
+    "uncertain": 3,
+    "total": 4
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_versatile_counter/images/Fibonacci_LFSR.gif",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_versatile_counter/image_categories/review/images/Fibonacci_LFSR.gif"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_versatile_counter/images/Galois_LFSR.svg",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "could not decode image (install svglib/cairosvg for SVG)",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_versatile_counter/image_categories/review/images/Galois_LFSR.svg"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_versatile_counter/images/block.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): block",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_versatile_counter/image_categories/useful/images/block.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_versatile_counter/images/lfsr.gif",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_versatile_counter/image_categories/review/images/lfsr.gif"
+    }
+  ]
+}

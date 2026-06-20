@@ -1,0 +1,58 @@
+{
+  "summary": {
+    "useful": 1,
+    "not_useful": 4,
+    "uncertain": 1,
+    "total": 6
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_usb_fpga_1_11/images/background.gif",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_usb_fpga_1_11/image_categories/review/images/background.gif"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_usb_fpga_1_11/images/inherit.gif",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 15x14",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_usb_fpga_1_11/image_categories/non_useful/images/inherit.gif"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_usb_fpga_1_11/images/tab.gif",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 3x30",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_usb_fpga_1_11/image_categories/non_useful/images/tab.gif"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_usb_fpga_1_11/images/titlebar.gif",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 1700x40",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_usb_fpga_1_11/image_categories/non_useful/images/titlebar.gif"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_usb_fpga_1_11/images/titlebar_end.gif",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 19x40",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_usb_fpga_1_11/image_categories/non_useful/images/titlebar_end.gif"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_usb_fpga_1_11/images/ztex_firmware_kit-diagram.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): diagram",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_usb_fpga_1_11/image_categories/useful/images/ztex_firmware_kit-diagram.png"
+    }
+  ]
+}
