@@ -1,0 +1,498 @@
+{
+  "summary": {
+    "useful": 0,
+    "not_useful": 24,
+    "uncertain": 37,
+    "total": 61
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/bc_s.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 8x32",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/non_useful/images/bc_s.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/classalu.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/review/images/classalu.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/classao68000.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/review/images/classao68000.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/classaoOCS.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/review/images/classaoOCS.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/classbitplain.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/review/images/classbitplain.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/classbitplains.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/review/images/classbitplains.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/classbus__control.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/review/images/classbus__control.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/classbus__sd.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/review/images/classbus__sd.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/classbus__ssram.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/review/images/classbus__ssram.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/classbus__syscon.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/review/images/classbus__syscon.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/classbus__terminator.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/review/images/classbus__terminator.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/classcia8520.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/review/images/classcia8520.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/classcondition.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/review/images/classcondition.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/classcontrol__osd.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/review/images/classcontrol__osd.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/classdebug.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/review/images/classdebug.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/classdecoder.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/review/images/classdecoder.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/classdrv__audio.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/review/images/classdrv__audio.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/classdrv__debug.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/review/images/classdrv__debug.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/classdrv__eth__vga__capture.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): vga",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/non_useful/images/classdrv__eth__vga__capture.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/classdrv__keyboard.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/review/images/classdrv__keyboard.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/classdrv__mouse.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/review/images/classdrv__mouse.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/classdrv__vga.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): vga",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/non_useful/images/classdrv__vga.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/classi2c__send.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/review/images/classi2c__send.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/classmemory__registers.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/review/images/classmemory__registers.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/classmicrocode__branch.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/review/images/classmicrocode__branch.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/classocs__audio.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/review/images/classocs__audio.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/classocs__blitter.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/review/images/classocs__blitter.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/classocs__control.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/review/images/classocs__control.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/classocs__copper.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/review/images/classocs__copper.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/classocs__floppy.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): floppy",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/non_useful/images/classocs__floppy.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/classocs__input.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/review/images/classocs__input.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/classocs__serial.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/review/images/classocs__serial.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/classocs__video.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/review/images/classocs__video.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/classpriority.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/review/images/classpriority.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/classregisters.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/review/images/classregisters.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/classsound__channel.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/review/images/classsound__channel.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/classsprite.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/review/images/classsprite.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/classvga__capture.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/review/images/classvga__capture.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/classvideo__priority.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/review/images/classvideo__priority.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/closed.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 9x9",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/non_useful/images/closed.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/doxygen.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): doxygen",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/non_useful/images/doxygen.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/nav_f.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 1x56",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/non_useful/images/nav_f.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/nav_h.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 1x12",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/non_useful/images/nav_h.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/open.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 9x9",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/non_useful/images/open.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/structure.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/review/images/structure.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/tab_a.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 1x36",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/non_useful/images/tab_a.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/tab_b.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 1x36",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/non_useful/images/tab_b.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/tab_h.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 1x36",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/non_useful/images/tab_h.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/tab_s.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 1x36",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/non_useful/images/tab_s.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/title.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/review/images/title.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/vga_kick12.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): vga",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/non_useful/images/vga_kick12.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/vga_lotus2.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): vga",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/non_useful/images/vga_lotus2.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/vga_menu_floppy_inserted.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): floppy, menu, vga",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/non_useful/images/vga_menu_floppy_inserted.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/vga_menu_no_floppy.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): floppy, menu, vga",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/non_useful/images/vga_menu_no_floppy.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/vga_menu_sel_wb.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): menu, vga",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/non_useful/images/vga_menu_sel_wb.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/vga_prince_of_persia.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): vga",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/non_useful/images/vga_prince_of_persia.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/vga_title.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): vga",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/non_useful/images/vga_title.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/vga_warzone.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): vga",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/non_useful/images/vga_warzone.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/vga_wb12.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): vga",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/non_useful/images/vga_wb12.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/vga_wings_of_fury.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): vga",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/non_useful/images/vga_wings_of_fury.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/images/wishbone_compatible.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): compatible",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_aoocs-wishbone_amiga_ocs_soc/image_categories/non_useful/images/wishbone_compatible.png"
+    }
+  ]
+}

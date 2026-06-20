@@ -1,0 +1,34 @@
+{
+  "summary": {
+    "useful": 0,
+    "not_useful": 0,
+    "uncertain": 3,
+    "total": 3
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_opencpu32/images/Diagrama_Blocos_2.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_opencpu32/image_categories/review/images/Diagrama_Blocos_2.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_opencpu32/images/Multiplexer2.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_opencpu32/image_categories/review/images/Multiplexer2.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_opencpu32/images/shifts_rotates.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_opencpu32/image_categories/review/images/shifts_rotates.png"
+    }
+  ]
+}

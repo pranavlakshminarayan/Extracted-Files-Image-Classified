@@ -1,0 +1,58 @@
+{
+  "summary": {
+    "useful": 0,
+    "not_useful": 3,
+    "uncertain": 3,
+    "total": 6
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_hicovec-a_configurable_simd_cpu/images/hicovec.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_hicovec-a_configurable_simd_cpu/image_categories/review/images/hicovec.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_hicovec-a_configurable_simd_cpu/images/scalarunit.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_hicovec-a_configurable_simd_cpu/image_categories/review/images/scalarunit.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_hicovec-a_configurable_simd_cpu/images/thumb_hicovec.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): thumb",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_hicovec-a_configurable_simd_cpu/image_categories/non_useful/images/thumb_hicovec.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_hicovec-a_configurable_simd_cpu/images/thumb_scalarunit.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): thumb",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_hicovec-a_configurable_simd_cpu/image_categories/non_useful/images/thumb_scalarunit.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_hicovec-a_configurable_simd_cpu/images/thumb_vectorunit.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): thumb",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_hicovec-a_configurable_simd_cpu/image_categories/non_useful/images/thumb_vectorunit.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_hicovec-a_configurable_simd_cpu/images/vectorunit.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_hicovec-a_configurable_simd_cpu/image_categories/review/images/vectorunit.png"
+    }
+  ]
+}

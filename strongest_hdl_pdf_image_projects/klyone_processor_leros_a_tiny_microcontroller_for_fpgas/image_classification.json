@@ -1,0 +1,58 @@
+{
+  "summary": {
+    "useful": 0,
+    "not_useful": 1,
+    "uncertain": 5,
+    "total": 6
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_leros_a_tiny_microcontroller_for_fpgas/images/ButtonOFF.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_leros_a_tiny_microcontroller_for_fpgas/image_categories/review/images/ButtonOFF.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_leros_a_tiny_microcontroller_for_fpgas/images/ButtonON.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_leros_a_tiny_microcontroller_for_fpgas/image_categories/review/images/ButtonON.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_leros_a_tiny_microcontroller_for_fpgas/images/LedOFF.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_leros_a_tiny_microcontroller_for_fpgas/image_categories/review/images/LedOFF.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_leros_a_tiny_microcontroller_for_fpgas/images/LedON.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_leros_a_tiny_microcontroller_for_fpgas/image_categories/review/images/LedON.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_leros_a_tiny_microcontroller_for_fpgas/images/MuviumICON16.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 16x16",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_leros_a_tiny_microcontroller_for_fpgas/image_categories/non_useful/images/MuviumICON16.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_leros_a_tiny_microcontroller_for_fpgas/images/MuviumLOGO.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_leros_a_tiny_microcontroller_for_fpgas/image_categories/review/images/MuviumLOGO.png"
+    }
+  ]
+}

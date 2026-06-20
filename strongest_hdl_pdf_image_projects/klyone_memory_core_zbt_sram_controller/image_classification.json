@@ -1,0 +1,26 @@
+{
+  "summary": {
+    "useful": 1,
+    "not_useful": 1,
+    "uncertain": 0,
+    "total": 2
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_memory_core_zbt_sram_controller/images/ZBT_waveform.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): waveform",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_memory_core_zbt_sram_controller/image_categories/useful/images/ZBT_waveform.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_memory_core_zbt_sram_controller/images/thumb_ZBT_waveform.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 200x33",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_memory_core_zbt_sram_controller/image_categories/non_useful/images/thumb_ZBT_waveform.png"
+    }
+  ]
+}

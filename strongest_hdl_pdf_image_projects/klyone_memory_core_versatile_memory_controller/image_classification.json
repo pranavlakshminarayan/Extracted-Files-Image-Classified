@@ -1,0 +1,66 @@
+{
+  "summary": {
+    "useful": 3,
+    "not_useful": 0,
+    "uncertain": 4,
+    "total": 7
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_memory_core_versatile_memory_controller/images/aref.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_memory_core_versatile_memory_controller/image_categories/review/images/aref.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_memory_core_versatile_memory_controller/images/block-sdram-wbwb-arbiter.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): block",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_memory_core_versatile_memory_controller/image_categories/useful/images/block-sdram-wbwb-arbiter.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_memory_core_versatile_memory_controller/images/block-sdram-wbwb.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): block",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_memory_core_versatile_memory_controller/image_categories/useful/images/block-sdram-wbwb.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_memory_core_versatile_memory_controller/images/block-sdram.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): block",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_memory_core_versatile_memory_controller/image_categories/useful/images/block-sdram.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_memory_core_versatile_memory_controller/images/sdr_16.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_memory_core_versatile_memory_controller/image_categories/review/images/sdr_16.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_memory_core_versatile_memory_controller/images/sdr_sdram_16.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_memory_core_versatile_memory_controller/image_categories/review/images/sdr_sdram_16.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_memory_core_versatile_memory_controller/images/tRCD.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_memory_core_versatile_memory_controller/image_categories/review/images/tRCD.png"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "useful": 0,
+    "not_useful": 1,
+    "uncertain": 0,
+    "total": 1
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_prototype_board_lpc_rom_spi_rom_8bit_rom_emulator_on_artec_dongle/images/dongle_board_base.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): board",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_prototype_board_lpc_rom_spi_rom_8bit_rom_emulator_on_artec_dongle/image_categories/non_useful/images/dongle_board_base.png"
+    }
+  ]
+}

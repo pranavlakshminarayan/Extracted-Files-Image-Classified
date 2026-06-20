@@ -1,0 +1,42 @@
+{
+  "summary": {
+    "useful": 1,
+    "not_useful": 0,
+    "uncertain": 3,
+    "total": 4
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_atlas_processor_core/images/MSR.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_atlas_processor_core/image_categories/review/images/MSR.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_atlas_processor_core/images/atlas_2k_base_block.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): block",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_atlas_processor_core/image_categories/useful/images/atlas_2k_base_block.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_atlas_processor_core/images/instruction_set_card.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_atlas_processor_core/image_categories/review/images/instruction_set_card.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_atlas_processor_core/images/programmers_model.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_atlas_processor_core/image_categories/review/images/programmers_model.png"
+    }
+  ]
+}

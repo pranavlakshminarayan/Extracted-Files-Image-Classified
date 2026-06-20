@@ -1,0 +1,178 @@
+{
+  "summary": {
+    "useful": 1,
+    "not_useful": 11,
+    "uncertain": 9,
+    "total": 21
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_ao68000-wishbone_68000_core/images/architecture.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): architecture",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_ao68000-wishbone_68000_core/image_categories/useful/images/architecture.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_ao68000-wishbone_68000_core/images/bc_s.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 8x32",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_ao68000-wishbone_68000_core/image_categories/non_useful/images/bc_s.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_ao68000-wishbone_68000_core/images/classalu.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_ao68000-wishbone_68000_core/image_categories/review/images/classalu.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_ao68000-wishbone_68000_core/images/classao68000.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_ao68000-wishbone_68000_core/image_categories/review/images/classao68000.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_ao68000-wishbone_68000_core/images/classbus__control.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_ao68000-wishbone_68000_core/image_categories/review/images/classbus__control.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_ao68000-wishbone_68000_core/images/classcondition.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_ao68000-wishbone_68000_core/image_categories/review/images/classcondition.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_ao68000-wishbone_68000_core/images/classdecoder.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_ao68000-wishbone_68000_core/image_categories/review/images/classdecoder.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_ao68000-wishbone_68000_core/images/classmemory__registers.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_ao68000-wishbone_68000_core/image_categories/review/images/classmemory__registers.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_ao68000-wishbone_68000_core/images/classmicrocode__branch.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_ao68000-wishbone_68000_core/image_categories/review/images/classmicrocode__branch.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_ao68000-wishbone_68000_core/images/classregisters.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_ao68000-wishbone_68000_core/image_categories/review/images/classregisters.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_ao68000-wishbone_68000_core/images/closed.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 9x9",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_ao68000-wishbone_68000_core/image_categories/non_useful/images/closed.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_ao68000-wishbone_68000_core/images/doxygen.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): doxygen",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_ao68000-wishbone_68000_core/image_categories/non_useful/images/doxygen.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_ao68000-wishbone_68000_core/images/nav_f.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 1x56",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_ao68000-wishbone_68000_core/image_categories/non_useful/images/nav_f.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_ao68000-wishbone_68000_core/images/nav_h.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 1x12",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_ao68000-wishbone_68000_core/image_categories/non_useful/images/nav_h.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_ao68000-wishbone_68000_core/images/open.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 9x9",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_ao68000-wishbone_68000_core/image_categories/non_useful/images/open.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_ao68000-wishbone_68000_core/images/structure.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_ao68000-wishbone_68000_core/image_categories/review/images/structure.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_ao68000-wishbone_68000_core/images/tab_a.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 1x36",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_ao68000-wishbone_68000_core/image_categories/non_useful/images/tab_a.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_ao68000-wishbone_68000_core/images/tab_b.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 1x36",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_ao68000-wishbone_68000_core/image_categories/non_useful/images/tab_b.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_ao68000-wishbone_68000_core/images/tab_h.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 1x36",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_ao68000-wishbone_68000_core/image_categories/non_useful/images/tab_h.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_ao68000-wishbone_68000_core/images/tab_s.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 1x36",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_ao68000-wishbone_68000_core/image_categories/non_useful/images/tab_s.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_ao68000-wishbone_68000_core/images/wishbone_compatible.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): compatible",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_ao68000-wishbone_68000_core/image_categories/non_useful/images/wishbone_compatible.png"
+    }
+  ]
+}

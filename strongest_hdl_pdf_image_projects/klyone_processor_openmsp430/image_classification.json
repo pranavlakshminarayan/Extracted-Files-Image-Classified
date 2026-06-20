@@ -1,0 +1,546 @@
+{
+  "summary": {
+    "useful": 12,
+    "not_useful": 7,
+    "uncertain": 48,
+    "total": 67
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/000_amount_button.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): button",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/non_useful/images/000_amount_button.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/008_amount_button.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): button",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/non_useful/images/008_amount_button.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/016_amount_button.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): button",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/non_useful/images/016_amount_button.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/032_chip_button_paypal.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): button",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/non_useful/images/032_chip_button_paypal.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/064_amount_button.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): button",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/non_useful/images/064_amount_button.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/128_amount_button.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): button",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/non_useful/images/128_amount_button.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/README.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/review/images/README.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/USB-ISS.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/review/images/USB-ISS.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/clock_diagram.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): diagram",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/useful/images/clock_diagram.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/clock_diagram_asic.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): diagram",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/useful/images/clock_diagram_asic.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/clock_diagram_asic_config.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): diagram",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/useful/images/clock_diagram_asic_config.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/clock_diagram_fpga.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): diagram",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/useful/images/clock_diagram_fpga.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/clock_divider.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/review/images/clock_divider.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/clock_divider_lowpower.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/review/images/clock_divider_lowpower.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/clock_example.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/review/images/clock_example.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/clock_gate_latch.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/review/images/clock_gate_latch.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/clock_gate_nand2.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/review/images/clock_gate_nand2.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/clock_mux.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/review/images/clock_mux.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/core_integration.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/review/images/core_integration.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/cpu_irq_mapping.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/review/images/cpu_irq_mapping.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/cpu_mem_space.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/review/images/cpu_mem_space.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/cpu_structure.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/review/images/cpu_structure.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/dbg_i2c.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/review/images/dbg_i2c.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/dbg_i2c_cmd_frame.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/review/images/dbg_i2c_cmd_frame.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/dbg_i2c_cmd_read.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/review/images/dbg_i2c_cmd_read.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/dbg_i2c_cmd_read_burst.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/review/images/dbg_i2c_cmd_read_burst.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/dbg_i2c_cmd_write.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/review/images/dbg_i2c_cmd_write.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/dbg_i2c_cmd_write_burst.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/review/images/dbg_i2c_cmd_write_burst.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/dbg_i2c_sda_io.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/review/images/dbg_i2c_sda_io.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/dbg_uart_8N1.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/review/images/dbg_uart_8N1.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/dbg_uart_cmd_frame.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/review/images/dbg_uart_cmd_frame.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/dbg_uart_cmd_read.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/review/images/dbg_uart_cmd_read.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/dbg_uart_cmd_read_burst.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/review/images/dbg_uart_cmd_read_burst.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/dbg_uart_cmd_write.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/review/images/dbg_uart_cmd_write.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/dbg_uart_cmd_write_burst.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/review/images/dbg_uart_cmd_write_burst.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/dbg_uart_sync_frame.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/review/images/dbg_uart_sync_frame.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/dft_clock_gate.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/review/images/dft_clock_gate.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/dft_clock_mux.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/review/images/dft_clock_mux.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/dft_reset.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/review/images/dft_reset.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/gdbproxy_flow.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/review/images/gdbproxy_flow.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/lpm1_bis.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/review/images/lpm1_bis.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/lpm1_reti.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/review/images/lpm1_reti.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/lpm1_wakeup.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/review/images/lpm1_wakeup.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/openMSP430_tmax.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/review/images/openMSP430_tmax.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/openmsp430-extra_info.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/review/images/openmsp430-extra_info.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/openmsp430-gdbproxy-ddd.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/review/images/openmsp430-gdbproxy-ddd.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/openmsp430-gdbproxy-eclipse.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/review/images/openmsp430-gdbproxy-eclipse.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/openmsp430-gdbproxy.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/review/images/openmsp430-gdbproxy.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/openmsp430-loader_lin.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/review/images/openmsp430-loader_lin.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/openmsp430-loader_win.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/review/images/openmsp430-loader_win.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/openmsp430-minidebug.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/review/images/openmsp430-minidebug.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/oscilloscope_screenshot.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): screenshot",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/non_useful/images/oscilloscope_screenshot.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/spacewar.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/review/images/spacewar.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/sync_cell.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/review/images/sync_cell.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/sync_reset.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/review/images/sync_reset.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/usb2uart.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/review/images/usb2uart.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/usb2uart_ttl.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/review/images/usb2uart_ttl.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/wakeup_cell.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/review/images/wakeup_cell.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/wakeup_watchdog.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/review/images/wakeup_watchdog.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/wave_clocks.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): wave",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/useful/images/wave_clocks.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/wave_dmem.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): wave",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/useful/images/wave_dmem.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/wave_irq.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): wave",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/useful/images/wave_irq.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/wave_per.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): wave",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/useful/images/wave_per.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/wave_pmem.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): wave",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/useful/images/wave_pmem.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/wave_resets.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): wave",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/useful/images/wave_resets.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/wave_sdi.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): wave",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/useful/images/wave_sdi.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/images/wave_sdi_i2c.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): wave",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_openmsp430/image_categories/useful/images/wave_sdi_i2c.png"
+    }
+  ]
+}

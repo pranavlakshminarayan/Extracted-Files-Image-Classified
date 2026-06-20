@@ -1,0 +1,90 @@
+{
+  "summary": {
+    "useful": 0,
+    "not_useful": 10,
+    "uncertain": 0,
+    "total": 10
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_other_modular_oscilloscope/images/document-save-image.PNG",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 16x16",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_other_modular_oscilloscope/image_categories/non_useful/images/document-save-image.PNG"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_other_modular_oscilloscope/images/document-save.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 16x16",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_other_modular_oscilloscope/image_categories/non_useful/images/document-save.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_other_modular_oscilloscope/images/falling.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 27x32",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_other_modular_oscilloscope/image_categories/non_useful/images/falling.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_other_modular_oscilloscope/images/fill-color.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 16x16",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_other_modular_oscilloscope/image_categories/non_useful/images/fill-color.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_other_modular_oscilloscope/images/grid_left.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 16x16",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_other_modular_oscilloscope/image_categories/non_useful/images/grid_left.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_other_modular_oscilloscope/images/grid_right.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 16x16",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_other_modular_oscilloscope/image_categories/non_useful/images/grid_right.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_other_modular_oscilloscope/images/grid_time.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 16x16",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_other_modular_oscilloscope/image_categories/non_useful/images/grid_time.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_other_modular_oscilloscope/images/media-playback-pause.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 16x16",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_other_modular_oscilloscope/image_categories/non_useful/images/media-playback-pause.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_other_modular_oscilloscope/images/rising.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 31x29",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_other_modular_oscilloscope/image_categories/non_useful/images/rising.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_other_modular_oscilloscope/images/zoom-in.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 16x16",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_other_modular_oscilloscope/image_categories/non_useful/images/zoom-in.png"
+    }
+  ]
+}

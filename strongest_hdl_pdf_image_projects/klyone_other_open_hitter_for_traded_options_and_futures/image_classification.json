@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "useful": 1,
+    "not_useful": 0,
+    "uncertain": 0,
+    "total": 1
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_other_open_hitter_for_traded_options_and_futures/images/BlockDiagram.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): blockdiagram",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_other_open_hitter_for_traded_options_and_futures/image_categories/useful/images/BlockDiagram.png"
+    }
+  ]
+}

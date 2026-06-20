@@ -1,0 +1,26 @@
+{
+  "summary": {
+    "useful": 0,
+    "not_useful": 0,
+    "uncertain": 2,
+    "total": 2
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_mcadams_risc_computer_architecture/images/marca.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_mcadams_risc_computer_architecture/image_categories/review/images/marca.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_mcadams_risc_computer_architecture/images/uart_sim.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_mcadams_risc_computer_architecture/image_categories/review/images/uart_sim.png"
+    }
+  ]
+}

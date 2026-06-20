@@ -1,0 +1,50 @@
+{
+  "summary": {
+    "useful": 0,
+    "not_useful": 0,
+    "uncertain": 5,
+    "total": 5
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_other_advanced_debug_system/images/awc_ui_controlgroup.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_other_advanced_debug_system/image_categories/review/images/awc_ui_controlgroup.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_other_advanced_debug_system/images/awc_ui_countersubgroup.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_other_advanced_debug_system/image_categories/review/images/awc_ui_countersubgroup.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_other_advanced_debug_system/images/awc_ui_full.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_other_advanced_debug_system/image_categories/review/images/awc_ui_full.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_other_advanced_debug_system/images/awc_ui_serverconnection.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_other_advanced_debug_system/image_categories/review/images/awc_ui_serverconnection.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_other_advanced_debug_system/images/awc_ui_wpsubgroup.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_other_advanced_debug_system/image_categories/review/images/awc_ui_wpsubgroup.png"
+    }
+  ]
+}

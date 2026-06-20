@@ -1,0 +1,34 @@
+{
+  "summary": {
+    "useful": 0,
+    "not_useful": 0,
+    "uncertain": 3,
+    "total": 3
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_ion-mipstm_compatible_cpu/images/cpu_symbol.PNG",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_ion-mipstm_compatible_cpu/image_categories/review/images/cpu_symbol.PNG"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_ion-mipstm_compatible_cpu/images/mpu_symbol.PNG",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_ion-mipstm_compatible_cpu/image_categories/review/images/mpu_symbol.PNG"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_ion-mipstm_compatible_cpu/images/soc_symbol.PNG",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_ion-mipstm_compatible_cpu/image_categories/review/images/soc_symbol.PNG"
+    }
+  ]
+}

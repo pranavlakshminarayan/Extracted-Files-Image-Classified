@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "useful": 1,
+    "not_useful": 0,
+    "uncertain": 0,
+    "total": 1
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_prototype_board_usb_fpga_module_1.11/images/ztex_firmware_kit-diagram.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): diagram",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_prototype_board_usb_fpga_module_1.11/image_categories/useful/images/ztex_firmware_kit-diagram.png"
+    }
+  ]
+}

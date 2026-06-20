@@ -1,0 +1,298 @@
+{
+  "summary": {
+    "useful": 2,
+    "not_useful": 0,
+    "uncertain": 34,
+    "total": 36
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/images/a-z80-toplevel.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/image_categories/review/images/a-z80-toplevel.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/images/z80-address_latch.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/image_categories/review/images/z80-address_latch.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/images/z80-address_mux.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/image_categories/review/images/z80-address_mux.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/images/z80-address_pins.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/image_categories/review/images/z80-address_pins.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/images/z80-alu.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/image_categories/review/images/z80-alu.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/images/z80-alu_bit_select.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/image_categories/review/images/z80-alu_bit_select.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/images/z80-alu_control.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/image_categories/review/images/z80-alu_control.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/images/z80-alu_core.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/image_categories/review/images/z80-alu_core.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/images/z80-alu_flags.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/image_categories/review/images/z80-alu_flags.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/images/z80-alu_mux_2.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/image_categories/review/images/z80-alu_mux_2.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/images/z80-alu_mux_2z.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/image_categories/review/images/z80-alu_mux_2z.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/images/z80-alu_mux_3z.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/image_categories/review/images/z80-alu_mux_3z.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/images/z80-alu_mux_4.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/image_categories/review/images/z80-alu_mux_4.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/images/z80-alu_mux_8.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/image_categories/review/images/z80-alu_mux_8.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/images/z80-alu_prep_daa.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/image_categories/review/images/z80-alu_prep_daa.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/images/z80-alu_select.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/image_categories/review/images/z80-alu_select.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/images/z80-alu_shifter_core.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/image_categories/review/images/z80-alu_shifter_core.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/images/z80-alu_slice.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/image_categories/review/images/z80-alu_slice.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/images/z80-bus_control.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/image_categories/review/images/z80-bus_control.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/images/z80-clk_delay.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/image_categories/review/images/z80-clk_delay.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/images/z80-control_pins_n.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/image_categories/review/images/z80-control_pins_n.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/images/z80-data_pins.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/image_categories/review/images/z80-data_pins.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/images/z80-data_switch.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/image_categories/review/images/z80-data_switch.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/images/z80-data_switch_mask.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/image_categories/review/images/z80-data_switch_mask.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/images/z80-decode_state.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): state",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/image_categories/useful/images/z80-decode_state.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/images/z80-inc_dec.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/image_categories/review/images/z80-inc_dec.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/images/z80-inc_dec_2bit.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/image_categories/review/images/z80-inc_dec_2bit.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/images/z80-interrupts.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/image_categories/review/images/z80-interrupts.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/images/z80-ir.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/image_categories/review/images/z80-ir.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/images/z80-memory_ifc.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/image_categories/review/images/z80-memory_ifc.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/images/z80-pin_control.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): pin",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/image_categories/useful/images/z80-pin_control.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/images/z80-reg_control.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/image_categories/review/images/z80-reg_control.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/images/z80-reg_file.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/image_categories/review/images/z80-reg_file.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/images/z80-reg_latch.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/image_categories/review/images/z80-reg_latch.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/images/z80-resets.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/image_categories/review/images/z80-resets.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/images/z80-sequencer.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_processor_a-z80_cpu/image_categories/review/images/z80-sequencer.png"
+    }
+  ]
+}
