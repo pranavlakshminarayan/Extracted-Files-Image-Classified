@@ -1,0 +1,114 @@
+{
+  "summary": {
+    "useful": 0,
+    "not_useful": 1,
+    "uncertain": 12,
+    "total": 13
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_pcie_gen3x8_dma_for_virtex7/images/NIKHEF.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_pcie_gen3x8_dma_for_virtex7/image_categories/review/images/NIKHEF.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_pcie_gen3x8_dma_for_virtex7/images/dma_core_structure.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_pcie_gen3x8_dma_for_virtex7/image_categories/review/images/dma_core_structure.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_pcie_gen3x8_dma_for_virtex7/images/footer.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 1600x26",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_pcie_gen3x8_dma_for_virtex7/image_categories/non_useful/images/footer.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_pcie_gen3x8_dma_for_virtex7/images/generate_output_products.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_pcie_gen3x8_dma_for_virtex7/image_categories/review/images/generate_output_products.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_pcie_gen3x8_dma_for_virtex7/images/pcie_core_basic.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_pcie_gen3x8_dma_for_virtex7/image_categories/review/images/pcie_core_basic.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_pcie_gen3x8_dma_for_virtex7/images/pcie_core_coreintpar.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_pcie_gen3x8_dma_for_virtex7/image_categories/review/images/pcie_core_coreintpar.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_pcie_gen3x8_dma_for_virtex7/images/pcie_core_extcapa1.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_pcie_gen3x8_dma_for_virtex7/image_categories/review/images/pcie_core_extcapa1.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_pcie_gen3x8_dma_for_virtex7/images/pcie_core_extcapa2.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_pcie_gen3x8_dma_for_virtex7/image_categories/review/images/pcie_core_extcapa2.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_pcie_gen3x8_dma_for_virtex7/images/pcie_core_legaciMSI.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_pcie_gen3x8_dma_for_virtex7/image_categories/review/images/pcie_core_legaciMSI.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_pcie_gen3x8_dma_for_virtex7/images/pcie_core_msix.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_pcie_gen3x8_dma_for_virtex7/image_categories/review/images/pcie_core_msix.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_pcie_gen3x8_dma_for_virtex7/images/pcie_core_pf0_bar.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_pcie_gen3x8_dma_for_virtex7/image_categories/review/images/pcie_core_pf0_bar.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_pcie_gen3x8_dma_for_virtex7/images/pcie_core_pwr.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_pcie_gen3x8_dma_for_virtex7/image_categories/review/images/pcie_core_pwr.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_pcie_gen3x8_dma_for_virtex7/images/pcie_core_shared.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_pcie_gen3x8_dma_for_virtex7/image_categories/review/images/pcie_core_shared.png"
+    }
+  ]
+}

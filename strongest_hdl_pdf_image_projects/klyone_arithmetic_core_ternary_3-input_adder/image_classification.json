@@ -1,0 +1,26 @@
+{
+  "summary": {
+    "useful": 0,
+    "not_useful": 0,
+    "uncertain": 2,
+    "total": 2
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_ternary_3-input_adder/images/ternary_adder_altera.svg",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "could not decode image (install svglib/cairosvg for SVG)",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_ternary_3-input_adder/image_categories/review/images/ternary_adder_altera.svg"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_ternary_3-input_adder/images/ternary_adder_xilinx.svg",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "could not decode image (install svglib/cairosvg for SVG)",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_ternary_3-input_adder/image_categories/review/images/ternary_adder_xilinx.svg"
+    }
+  ]
+}

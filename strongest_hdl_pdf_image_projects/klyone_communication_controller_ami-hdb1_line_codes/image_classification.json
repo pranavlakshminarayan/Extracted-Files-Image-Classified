@@ -1,0 +1,98 @@
+{
+  "summary": {
+    "useful": 0,
+    "not_useful": 0,
+    "uncertain": 11,
+    "total": 11
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_ami-hdb1_line_codes/images/circ-ami_dec.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_ami-hdb1_line_codes/image_categories/review/images/circ-ami_dec.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_ami-hdb1_line_codes/images/circ-ami_enc.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_ami-hdb1_line_codes/image_categories/review/images/circ-ami_enc.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_ami-hdb1_line_codes/images/circ-hdb1_dec.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_ami-hdb1_line_codes/image_categories/review/images/circ-hdb1_dec.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_ami-hdb1_line_codes/images/circ-hdb1_enc-q0.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_ami-hdb1_line_codes/image_categories/review/images/circ-hdb1_enc-q0.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_ami-hdb1_line_codes/images/circ-hdb1_enc-q1.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_ami-hdb1_line_codes/image_categories/review/images/circ-hdb1_enc-q1.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_ami-hdb1_line_codes/images/circ-hdb1_enc-q2.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_ami-hdb1_line_codes/image_categories/review/images/circ-hdb1_enc-q2.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_ami-hdb1_line_codes/images/circ-hdb1_enc-saidas.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_ami-hdb1_line_codes/image_categories/review/images/circ-hdb1_enc-saidas.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_ami-hdb1_line_codes/images/estados-ami_dec.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_ami-hdb1_line_codes/image_categories/review/images/estados-ami_dec.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_ami-hdb1_line_codes/images/estados-ami_enc.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_ami-hdb1_line_codes/image_categories/review/images/estados-ami_enc.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_ami-hdb1_line_codes/images/estados-hdb1_dec.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_ami-hdb1_line_codes/image_categories/review/images/estados-hdb1_dec.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_ami-hdb1_line_codes/images/estados-hdb1_enc.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_ami-hdb1_line_codes/image_categories/review/images/estados-hdb1_enc.png"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "summary": {
+    "useful": 2,
+    "not_useful": 0,
+    "uncertain": 0,
+    "total": 2
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_crypto_core_pipelined_aes/images/arch.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): arch",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_crypto_core_pipelined_aes/image_categories/useful/images/arch.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_crypto_core_pipelined_aes/images/timing.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): timing",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_crypto_core_pipelined_aes/image_categories/useful/images/timing.png"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "useful": 0,
+    "not_useful": 1,
+    "uncertain": 0,
+    "total": 1
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_crypto_core_flexible_design_of_a_modular_simultaneous_exponent/images/OCsmall.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 13x13",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_crypto_core_flexible_design_of_a_modular_simultaneous_exponent/image_categories/non_useful/images/OCsmall.png"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "summary": {
+    "useful": 2,
+    "not_useful": 1,
+    "uncertain": 1,
+    "total": 4
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_dsp_core_hilbert_transformer/images/block_impl_h_a3.svg",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): block",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_dsp_core_hilbert_transformer/image_categories/useful/images/block_impl_h_a3.svg"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_dsp_core_hilbert_transformer/images/block_impl_h_a4.svg",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): block",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_dsp_core_hilbert_transformer/image_categories/useful/images/block_impl_h_a4.svg"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_dsp_core_hilbert_transformer/images/h_a_1_filter_impl.svg",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "could not decode image (install svglib/cairosvg for SVG)",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_dsp_core_hilbert_transformer/image_categories/review/images/h_a_1_filter_impl.svg"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_dsp_core_hilbert_transformer/images/screenshot_modelsim_h_a_4.bmp",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): screenshot",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_dsp_core_hilbert_transformer/image_categories/non_useful/images/screenshot_modelsim_h_a_4.bmp"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "summary": {
+    "useful": 0,
+    "not_useful": 2,
+    "uncertain": 2,
+    "total": 4
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_gamepads/images/gcpad.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_gamepads/image_categories/review/images/gcpad.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_gamepads/images/snespad.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_gamepads/image_categories/review/images/snespad.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_gamepads/images/thumb_gcpad.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): thumb",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_gamepads/image_categories/non_useful/images/thumb_gcpad.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_gamepads/images/thumb_snespad.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): thumb",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_gamepads/image_categories/non_useful/images/thumb_snespad.png"
+    }
+  ]
+}

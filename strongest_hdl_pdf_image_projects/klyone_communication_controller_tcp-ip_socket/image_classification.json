@@ -1,0 +1,90 @@
+{
+  "summary": {
+    "useful": 0,
+    "not_useful": 1,
+    "uncertain": 9,
+    "total": 10
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_tcp-ip_socket/images/TCP.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_tcp-ip_socket/image_categories/review/images/TCP.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_tcp-ip_socket/images/TCP.svg",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "could not decode image (install svglib/cairosvg for SVG)",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_tcp-ip_socket/image_categories/review/images/TCP.svg"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_tcp-ip_socket/images/chips.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_tcp-ip_socket/image_categories/review/images/chips.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_tcp-ip_socket/images/example_1.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_tcp-ip_socket/image_categories/review/images/example_1.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_tcp-ip_socket/images/example_2.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_tcp-ip_socket/image_categories/review/images/example_2.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_tcp-ip_socket/images/example_3.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_tcp-ip_socket/image_categories/review/images/example_3.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_tcp-ip_socket/images/example_4.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_tcp-ip_socket/image_categories/review/images/example_4.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_tcp-ip_socket/images/example_5.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_tcp-ip_socket/image_categories/review/images/example_5.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_tcp-ip_socket/images/network.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_tcp-ip_socket/image_categories/review/images/network.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_tcp-ip_socket/images/screenshot.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): screenshot",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_tcp-ip_socket/image_categories/non_useful/images/screenshot.png"
+    }
+  ]
+}

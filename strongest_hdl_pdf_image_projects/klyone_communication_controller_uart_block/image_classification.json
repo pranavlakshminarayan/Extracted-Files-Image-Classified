@@ -1,0 +1,378 @@
+{
+  "summary": {
+    "useful": 1,
+    "not_useful": 32,
+    "uncertain": 13,
+    "total": 46
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/images/Charactercode.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/image_categories/review/images/Charactercode.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/images/bc_s.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 8x32",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/image_categories/non_useful/images/bc_s.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/images/bdwn.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 7x8",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/image_categories/non_useful/images/bdwn.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/images/class_i_n_t_e_r_c_o_n___p2_p.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): class",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/image_categories/non_useful/images/class_i_n_t_e_r_c_o_n___p2_p.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/images/class_s_e_r_i_a_l_m_a_s_t_e_r.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): class",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/image_categories/non_useful/images/class_s_e_r_i_a_l_m_a_s_t_e_r.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/images/class_s_y_c0001a.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): class",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/image_categories/non_useful/images/class_s_y_c0001a.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/images/classbaud__generator.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/image_categories/review/images/classbaud__generator.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/images/classdivisor.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/image_categories/review/images/classdivisor.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/images/classserial__receiver.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/image_categories/review/images/classserial__receiver.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/images/classserial__transmitter.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/image_categories/review/images/classserial__transmitter.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/images/classtest_baud__generator.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/image_categories/review/images/classtest_baud__generator.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/images/classtest_divisor.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/image_categories/review/images/classtest_divisor.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/images/classtest_serial__receiver.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/image_categories/review/images/classtest_serial__receiver.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/images/classtest_serial__transmitter.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/image_categories/review/images/classtest_serial__transmitter.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/images/classtest_uart__communication__block.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): block",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/image_categories/useful/images/classtest_uart__communication__block.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/images/classtest_uart__control.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/image_categories/review/images/classtest_uart__control.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/images/classuart__communication__blocks.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/image_categories/review/images/classuart__communication__blocks.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/images/classuart__control.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/image_categories/review/images/classuart__control.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/images/classuart__wishbone__slave.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/image_categories/review/images/classuart__wishbone__slave.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/images/close.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 11x11",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/image_categories/non_useful/images/close.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/images/closed.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 9x9",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/image_categories/non_useful/images/closed.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/images/doxygen.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): doxygen",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/image_categories/non_useful/images/doxygen.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/images/ftv2blank.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 16x22",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/image_categories/non_useful/images/ftv2blank.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/images/ftv2doc.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 24x22",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/image_categories/non_useful/images/ftv2doc.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/images/ftv2folderclosed.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 24x22",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/image_categories/non_useful/images/ftv2folderclosed.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/images/ftv2folderopen.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 24x22",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/image_categories/non_useful/images/ftv2folderopen.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/images/ftv2lastnode.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 16x22",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/image_categories/non_useful/images/ftv2lastnode.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/images/ftv2link.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 24x22",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/image_categories/non_useful/images/ftv2link.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/images/ftv2mlastnode.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 16x22",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/image_categories/non_useful/images/ftv2mlastnode.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/images/ftv2mnode.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 16x22",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/image_categories/non_useful/images/ftv2mnode.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/images/ftv2node.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 16x22",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/image_categories/non_useful/images/ftv2node.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/images/ftv2plastnode.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 16x22",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/image_categories/non_useful/images/ftv2plastnode.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/images/ftv2pnode.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 16x22",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/image_categories/non_useful/images/ftv2pnode.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/images/ftv2splitbar.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 6x1024",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/image_categories/non_useful/images/ftv2splitbar.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/images/ftv2vertline.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 16x22",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/image_categories/non_useful/images/ftv2vertline.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/images/mag_sel.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 20x19",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/image_categories/non_useful/images/mag_sel.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/images/nav_f.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 1x56",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/image_categories/non_useful/images/nav_f.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/images/nav_h.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 1x12",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/image_categories/non_useful/images/nav_h.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/images/open.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 9x9",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/image_categories/non_useful/images/open.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/images/search_l.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 20x19",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/image_categories/non_useful/images/search_l.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/images/search_m.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 2x19",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/image_categories/non_useful/images/search_m.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/images/search_r.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 18x19",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/image_categories/non_useful/images/search_r.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/images/tab_a.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 1x36",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/image_categories/non_useful/images/tab_a.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/images/tab_b.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 1x36",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/image_categories/non_useful/images/tab_b.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/images/tab_h.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 1x36",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/image_categories/non_useful/images/tab_h.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/images/tab_s.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 1x36",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_uart_block/image_categories/non_useful/images/tab_s.png"
+    }
+  ]
+}

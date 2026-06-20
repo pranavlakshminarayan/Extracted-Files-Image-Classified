@@ -1,0 +1,74 @@
+{
+  "summary": {
+    "useful": 3,
+    "not_useful": 1,
+    "uncertain": 4,
+    "total": 8
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_library_funbase_ip_library/images/TUT.ip.hwp.accelerator.port_blinker.1.0.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_library_funbase_ip_library/image_categories/review/images/TUT.ip.hwp.accelerator.port_blinker.1.0.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_library_funbase_ip_library/images/arch.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): arch",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_library_funbase_ip_library/image_categories/useful/images/arch.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_library_funbase_ip_library/images/architecture.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): architecture",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_library_funbase_ip_library/image_categories/useful/images/architecture.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_library_funbase_ip_library/images/example_system.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_library_funbase_ip_library/image_categories/review/images/example_system.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_library_funbase_ip_library/images/expected_result.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_library_funbase_ip_library/image_categories/review/images/expected_result.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_library_funbase_ip_library/images/mesh_5x4.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_library_funbase_ip_library/image_categories/review/images/mesh_5x4.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_library_funbase_ip_library/images/router_arch.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): arch",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_library_funbase_ip_library/image_categories/useful/images/router_arch.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_library_funbase_ip_library/images/tty_logo.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): logo",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_library_funbase_ip_library/image_categories/non_useful/images/tty_logo.png"
+    }
+  ]
+}

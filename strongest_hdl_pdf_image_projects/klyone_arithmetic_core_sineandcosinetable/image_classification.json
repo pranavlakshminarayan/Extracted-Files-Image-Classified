@@ -1,0 +1,42 @@
+{
+  "summary": {
+    "useful": 3,
+    "not_useful": 0,
+    "uncertain": 1,
+    "total": 4
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_sineandcosinetable/images/First256SamplesOfTestbedOutputImportedIntoMatlab.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_sineandcosinetable/image_categories/review/images/First256SamplesOfTestbedOutputImportedIntoMatlab.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_sineandcosinetable/images/clk_rst_wave.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): wave",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_sineandcosinetable/image_categories/useful/images/clk_rst_wave.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_sineandcosinetable/images/pipestage_wave.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): wave",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_sineandcosinetable/image_categories/useful/images/pipestage_wave.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_sineandcosinetable/images/sincos_wave.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): wave",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_arithmetic_core_sineandcosinetable/image_categories/useful/images/sincos_wave.png"
+    }
+  ]
+}

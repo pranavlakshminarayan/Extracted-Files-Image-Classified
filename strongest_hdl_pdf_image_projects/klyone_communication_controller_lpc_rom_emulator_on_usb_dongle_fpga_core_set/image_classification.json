@@ -1,0 +1,26 @@
+{
+  "summary": {
+    "useful": 2,
+    "not_useful": 0,
+    "uncertain": 0,
+    "total": 2
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_lpc_rom_emulator_on_usb_dongle_fpga_core_set/images/block_diagram.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): block, diagram",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_lpc_rom_emulator_on_usb_dongle_fpga_core_set/image_categories/useful/images/block_diagram.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_lpc_rom_emulator_on_usb_dongle_fpga_core_set/images/dongle_block.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): block",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_lpc_rom_emulator_on_usb_dongle_fpga_core_set/image_categories/useful/images/dongle_block.png"
+    }
+  ]
+}

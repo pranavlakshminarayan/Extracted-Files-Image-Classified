@@ -1,0 +1,34 @@
+{
+  "summary": {
+    "useful": 0,
+    "not_useful": 1,
+    "uncertain": 2,
+    "total": 3
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_dsp_core_dds_synthesizer/images/dds_implementation.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_dsp_core_dds_synthesizer/image_categories/review/images/dds_implementation.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_dsp_core_dds_synthesizer/images/dds_implementation.svg",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "could not decode image (install svglib/cairosvg for SVG)",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_dsp_core_dds_synthesizer/image_categories/review/images/dds_implementation.svg"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_dsp_core_dds_synthesizer/images/thumb_dds_implementation.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): thumb",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_dsp_core_dds_synthesizer/image_categories/non_useful/images/thumb_dds_implementation.png"
+    }
+  ]
+}

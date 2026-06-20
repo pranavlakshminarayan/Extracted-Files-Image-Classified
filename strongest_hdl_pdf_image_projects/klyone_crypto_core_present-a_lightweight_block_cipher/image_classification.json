@@ -1,0 +1,138 @@
+{
+  "summary": {
+    "useful": 0,
+    "not_useful": 1,
+    "uncertain": 15,
+    "total": 16
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_crypto_core_present-a_lightweight_block_cipher/images/PresentCommInside.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_crypto_core_present-a_lightweight_block_cipher/image_categories/review/images/PresentCommInside.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_crypto_core_present-a_lightweight_block_cipher/images/PresentCommSM.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_crypto_core_present-a_lightweight_block_cipher/image_categories/review/images/PresentCommSM.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_crypto_core_present-a_lightweight_block_cipher/images/PresentDecodeCommInside.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_crypto_core_present-a_lightweight_block_cipher/image_categories/review/images/PresentDecodeCommInside.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_crypto_core_present-a_lightweight_block_cipher/images/PresentDecodeTesting.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_crypto_core_present-a_lightweight_block_cipher/image_categories/review/images/PresentDecodeTesting.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_crypto_core_present-a_lightweight_block_cipher/images/PresentDecodeTesting.svg",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "could not decode image (install svglib/cairosvg for SVG)",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_crypto_core_present-a_lightweight_block_cipher/image_categories/review/images/PresentDecodeTesting.svg"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_crypto_core_present-a_lightweight_block_cipher/images/PresentEnc.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_crypto_core_present-a_lightweight_block_cipher/image_categories/review/images/PresentEnc.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_crypto_core_present-a_lightweight_block_cipher/images/PresentEnc.svg",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "could not decode image (install svglib/cairosvg for SVG)",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_crypto_core_present-a_lightweight_block_cipher/image_categories/review/images/PresentEnc.svg"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_crypto_core_present-a_lightweight_block_cipher/images/PresentFullDecoder.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_crypto_core_present-a_lightweight_block_cipher/image_categories/review/images/PresentFullDecoder.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_crypto_core_present-a_lightweight_block_cipher/images/PresentFullDecoder.svg",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "could not decode image (install svglib/cairosvg for SVG)",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_crypto_core_present-a_lightweight_block_cipher/image_categories/review/images/PresentFullDecoder.svg"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_crypto_core_present-a_lightweight_block_cipher/images/PresentPureTesting.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_crypto_core_present-a_lightweight_block_cipher/image_categories/review/images/PresentPureTesting.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_crypto_core_present-a_lightweight_block_cipher/images/PresentPureTesting.svg",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "could not decode image (install svglib/cairosvg for SVG)",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_crypto_core_present-a_lightweight_block_cipher/image_categories/review/images/PresentPureTesting.svg"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_crypto_core_present-a_lightweight_block_cipher/images/internalStructure.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_crypto_core_present-a_lightweight_block_cipher/image_categories/review/images/internalStructure.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_crypto_core_present-a_lightweight_block_cipher/images/logo.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): logo",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_crypto_core_present-a_lightweight_block_cipher/image_categories/non_useful/images/logo.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_crypto_core_present-a_lightweight_block_cipher/images/presentAlgorithm.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_crypto_core_present-a_lightweight_block_cipher/image_categories/review/images/presentAlgorithm.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_crypto_core_present-a_lightweight_block_cipher/images/presentAlgorithm.svg",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "could not decode image (install svglib/cairosvg for SVG)",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_crypto_core_present-a_lightweight_block_cipher/image_categories/review/images/presentAlgorithm.svg"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_crypto_core_present-a_lightweight_block_cipher/images/presentDecodeCommSM.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_crypto_core_present-a_lightweight_block_cipher/image_categories/review/images/presentDecodeCommSM.png"
+    }
+  ]
+}

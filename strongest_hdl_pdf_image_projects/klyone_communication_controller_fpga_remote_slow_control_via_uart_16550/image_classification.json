@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "useful": 1,
+    "not_useful": 0,
+    "uncertain": 0,
+    "total": 1
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_communication_controller_fpga_remote_slow_control_via_uart_16550/images/testbench_wave.PNG",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): wave",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_communication_controller_fpga_remote_slow_control_via_uart_16550/image_categories/useful/images/testbench_wave.PNG"
+    }
+  ]
+}
