@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "useful": 0,
+    "not_useful": 1,
+    "uncertain": 0,
+    "total": 1
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_minsoc/images/wb_compatible.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): compatible",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_minsoc/image_categories/non_useful/images/wb_compatible.png"
+    }
+  ]
+}

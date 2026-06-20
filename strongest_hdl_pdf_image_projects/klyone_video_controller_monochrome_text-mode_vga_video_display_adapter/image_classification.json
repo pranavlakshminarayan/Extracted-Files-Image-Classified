@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "useful": 0,
+    "not_useful": 1,
+    "uncertain": 0,
+    "total": 1
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_video_controller_monochrome_text-mode_vga_video_display_adapter/images/FPGA_VGA_Electrical_Interface.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): vga",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_video_controller_monochrome_text-mode_vga_video_display_adapter/image_categories/non_useful/images/FPGA_VGA_Electrical_Interface.png"
+    }
+  ]
+}

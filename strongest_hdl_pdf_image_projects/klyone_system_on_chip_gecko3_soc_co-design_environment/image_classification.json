@@ -1,0 +1,226 @@
+{
+  "summary": {
+    "useful": 11,
+    "not_useful": 2,
+    "uncertain": 14,
+    "total": 27
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_gecko3_soc_co-design_environment/images/GECKO3COM_simple_fsm_1.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): fsm",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_gecko3_soc_co-design_environment/image_categories/useful/images/GECKO3COM_simple_fsm_1.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_gecko3_soc_co-design_environment/images/GECKO3COM_simple_fsm_2.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): fsm",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_gecko3_soc_co-design_environment/image_categories/useful/images/GECKO3COM_simple_fsm_2.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_gecko3_soc_co-design_environment/images/GECKO3COM_simple_fsm_3.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): fsm",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_gecko3_soc_co-design_environment/image_categories/useful/images/GECKO3COM_simple_fsm_3.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_gecko3_soc_co-design_environment/images/GECKO3COM_simple_fsm_4.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): fsm",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_gecko3_soc_co-design_environment/image_categories/useful/images/GECKO3COM_simple_fsm_4.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_gecko3_soc_co-design_environment/images/GECKO3COM_simple_fsm_5.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): fsm",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_gecko3_soc_co-design_environment/image_categories/useful/images/GECKO3COM_simple_fsm_5.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_gecko3_soc_co-design_environment/images/GECKO3COM_simple_structure.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_gecko3_soc_co-design_environment/image_categories/review/images/GECKO3COM_simple_structure.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_gecko3_soc_co-design_environment/images/GECKO3COM_simple_symbol.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_gecko3_soc_co-design_environment/image_categories/review/images/GECKO3COM_simple_symbol.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_gecko3_soc_co-design_environment/images/GECKO3COM_simple_test_1.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_gecko3_soc_co-design_environment/image_categories/review/images/GECKO3COM_simple_test_1.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_gecko3_soc_co-design_environment/images/GECKO3COM_simple_test_2.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_gecko3_soc_co-design_environment/image_categories/review/images/GECKO3COM_simple_test_2.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_gecko3_soc_co-design_environment/images/blockdia_core.svg",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "could not decode image (install svglib/cairosvg for SVG)",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_gecko3_soc_co-design_environment/image_categories/review/images/blockdia_core.svg"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_gecko3_soc_co-design_environment/images/blockdiagramm.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_gecko3_soc_co-design_environment/image_categories/review/images/blockdiagramm.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_gecko3_soc_co-design_environment/images/fpga_fx2_interface_1.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_gecko3_soc_co-design_environment/image_categories/review/images/fpga_fx2_interface_1.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_gecko3_soc_co-design_environment/images/fpga_fx2_interface_2.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_gecko3_soc_co-design_environment/image_categories/review/images/fpga_fx2_interface_2.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_gecko3_soc_co-design_environment/images/fpga_fx2_interface_3.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_gecko3_soc_co-design_environment/image_categories/review/images/fpga_fx2_interface_3.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_gecko3_soc_co-design_environment/images/fpga_fx2_interface_4.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_gecko3_soc_co-design_environment/image_categories/review/images/fpga_fx2_interface_4.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_gecko3_soc_co-design_environment/images/gecko-logo.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): gecko, logo",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_gecko3_soc_co-design_environment/image_categories/non_useful/images/gecko-logo.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_gecko3_soc_co-design_environment/images/gpif_com_datapath.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): datapath",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_gecko3_soc_co-design_environment/image_categories/useful/images/gpif_com_datapath.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_gecko3_soc_co-design_environment/images/gpif_com_symbol.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_gecko3_soc_co-design_environment/image_categories/review/images/gpif_com_symbol.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_gecko3_soc_co-design_environment/images/gpif_com_test.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_gecko3_soc_co-design_environment/image_categories/review/images/gpif_com_test.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_gecko3_soc_co-design_environment/images/in_transfer_planing.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_gecko3_soc_co-design_environment/image_categories/review/images/in_transfer_planing.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_gecko3_soc_co-design_environment/images/out_transfer_planing.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_gecko3_soc_co-design_environment/image_categories/review/images/out_transfer_planing.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_gecko3_soc_co-design_environment/images/thumb_blockdiagramm.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): thumb",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_gecko3_soc_co-design_environment/image_categories/non_useful/images/thumb_blockdiagramm.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_gecko3_soc_co-design_environment/images/timing_device.svg",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): timing",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_gecko3_soc_co-design_environment/image_categories/useful/images/timing_device.svg"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_gecko3_soc_co-design_environment/images/wave_arbit_col.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): wave",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_gecko3_soc_co-design_environment/image_categories/useful/images/wave_arbit_col.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_gecko3_soc_co-design_environment/images/wave_arbit_no_col.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): wave",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_gecko3_soc_co-design_environment/image_categories/useful/images/wave_arbit_no_col.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_gecko3_soc_co-design_environment/images/wave_end.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): wave",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_gecko3_soc_co-design_environment/image_categories/useful/images/wave_end.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_gecko3_soc_co-design_environment/images/wave_throt.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): wave",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_system_on_chip_gecko3_soc_co-design_environment/image_categories/useful/images/wave_throt.png"
+    }
+  ]
+}

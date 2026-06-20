@@ -1,0 +1,130 @@
+{
+  "summary": {
+    "useful": 0,
+    "not_useful": 2,
+    "uncertain": 13,
+    "total": 15
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_video_controller_ccitt-g4tiff_compression/images/200735153855.bmp",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_video_controller_ccitt-g4tiff_compression/image_categories/review/images/200735153855.bmp"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_video_controller_ccitt-g4tiff_compression/images/Connect2.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_video_controller_ccitt-g4tiff_compression/image_categories/review/images/Connect2.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_video_controller_ccitt-g4tiff_compression/images/Disconnect.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_video_controller_ccitt-g4tiff_compression/image_categories/review/images/Disconnect.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_video_controller_ccitt-g4tiff_compression/images/Pause.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_video_controller_ccitt-g4tiff_compression/image_categories/review/images/Pause.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_video_controller_ccitt-g4tiff_compression/images/Play.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_video_controller_ccitt-g4tiff_compression/image_categories/review/images/Play.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_video_controller_ccitt-g4tiff_compression/images/PlayPause.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_video_controller_ccitt-g4tiff_compression/image_categories/review/images/PlayPause.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_video_controller_ccitt-g4tiff_compression/images/Refresh.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_video_controller_ccitt-g4tiff_compression/image_categories/review/images/Refresh.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_video_controller_ccitt-g4tiff_compression/images/Segmentation752x480(UART).tif",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_video_controller_ccitt-g4tiff_compression/image_categories/review/images/Segmentation752x480(UART).tif"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_video_controller_ccitt-g4tiff_compression/images/Segmentation752x480(real)bw_24bit.bmp",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_video_controller_ccitt-g4tiff_compression/image_categories/review/images/Segmentation752x480(real)bw_24bit.bmp"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_video_controller_ccitt-g4tiff_compression/images/Segmentation752x480(real2)_24bit.bmp",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_video_controller_ccitt-g4tiff_compression/image_categories/review/images/Segmentation752x480(real2)_24bit.bmp"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_video_controller_ccitt-g4tiff_compression/images/Segmentation752x480(real4)bw_24bit.bmp",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_video_controller_ccitt-g4tiff_compression/image_categories/review/images/Segmentation752x480(real4)bw_24bit.bmp"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_video_controller_ccitt-g4tiff_compression/images/Segmentation752x480(real5)_24bit.bmp",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_video_controller_ccitt-g4tiff_compression/image_categories/review/images/Segmentation752x480(real5)_24bit.bmp"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_video_controller_ccitt-g4tiff_compression/images/Segmentation752x480.tif",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_video_controller_ccitt-g4tiff_compression/image_categories/review/images/Segmentation752x480.tif"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_video_controller_ccitt-g4tiff_compression/images/Stop.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): stop",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_video_controller_ccitt-g4tiff_compression/image_categories/non_useful/images/Stop.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/klyone_video_controller_ccitt-g4tiff_compression/images/logo_tiff_top_largest.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): logo",
+      "moved_to": "strongest_hdl_pdf_image_projects/klyone_video_controller_ccitt-g4tiff_compression/image_categories/non_useful/images/logo_tiff_top_largest.png"
+    }
+  ]
+}
