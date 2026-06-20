@@ -1,0 +1,234 @@
+{
+  "summary": {
+    "useful": 2,
+    "not_useful": 3,
+    "uncertain": 23,
+    "total": 28
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_orsoc_graphics_accelerator/images/800px-Bresenham.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_orsoc_graphics_accelerator/image_categories/review/images/800px-Bresenham.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_orsoc_graphics_accelerator/images/Bahamut.gif",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_orsoc_graphics_accelerator/image_categories/review/images/Bahamut.gif"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_orsoc_graphics_accelerator/images/OpenCores.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): opencores",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_orsoc_graphics_accelerator/image_categories/non_useful/images/OpenCores.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_orsoc_graphics_accelerator/images/SrcClipDest.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_orsoc_graphics_accelerator/image_categories/review/images/SrcClipDest.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_orsoc_graphics_accelerator/images/ascii.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_orsoc_graphics_accelerator/image_categories/review/images/ascii.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_orsoc_graphics_accelerator/images/ascii2.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_orsoc_graphics_accelerator/image_categories/review/images/ascii2.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_orsoc_graphics_accelerator/images/bezier_curves.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_orsoc_graphics_accelerator/image_categories/review/images/bezier_curves.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_orsoc_graphics_accelerator/images/bezier_shapes.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_orsoc_graphics_accelerator/image_categories/review/images/bezier_shapes.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_orsoc_graphics_accelerator/images/blenderstate.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_orsoc_graphics_accelerator/image_categories/review/images/blenderstate.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_orsoc_graphics_accelerator/images/colorkey.svg",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "could not decode image (install svglib/cairosvg for SVG)",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_orsoc_graphics_accelerator/image_categories/review/images/colorkey.svg"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_orsoc_graphics_accelerator/images/directory.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_orsoc_graphics_accelerator/image_categories/review/images/directory.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_orsoc_graphics_accelerator/images/fill.svg",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "could not decode image (install svglib/cairosvg for SVG)",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_orsoc_graphics_accelerator/image_categories/review/images/fill.svg"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_orsoc_graphics_accelerator/images/fragmentmodes.svg",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "could not decode image (install svglib/cairosvg for SVG)",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_orsoc_graphics_accelerator/image_categories/review/images/fragmentmodes.svg"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_orsoc_graphics_accelerator/images/fragmentstate.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_orsoc_graphics_accelerator/image_categories/review/images/fragmentstate.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_orsoc_graphics_accelerator/images/franklin.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_orsoc_graphics_accelerator/image_categories/review/images/franklin.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_orsoc_graphics_accelerator/images/interptest.bmp",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 10x10",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_orsoc_graphics_accelerator/image_categories/non_useful/images/interptest.bmp"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_orsoc_graphics_accelerator/images/orsocgfxfont.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_orsoc_graphics_accelerator/image_categories/review/images/orsocgfxfont.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_orsoc_graphics_accelerator/images/pipeline.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): pipeline",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_orsoc_graphics_accelerator/image_categories/useful/images/pipeline.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_orsoc_graphics_accelerator/images/rasterimage.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_orsoc_graphics_accelerator/image_categories/review/images/rasterimage.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_orsoc_graphics_accelerator/images/rasterstate.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_orsoc_graphics_accelerator/image_categories/review/images/rasterstate.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_orsoc_graphics_accelerator/images/topology.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): topology",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_orsoc_graphics_accelerator/image_categories/useful/images/topology.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_orsoc_graphics_accelerator/images/triangleedgefunctions.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_orsoc_graphics_accelerator/image_categories/review/images/triangleedgefunctions.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_orsoc_graphics_accelerator/images/trianglespeed.svg",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "could not decode image (install svglib/cairosvg for SVG)",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_orsoc_graphics_accelerator/image_categories/review/images/trianglespeed.svg"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_orsoc_graphics_accelerator/images/vector.svg",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "could not decode image (install svglib/cairosvg for SVG)",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_orsoc_graphics_accelerator/image_categories/review/images/vector.svg"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_orsoc_graphics_accelerator/images/vectorDttf.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_orsoc_graphics_accelerator/image_categories/review/images/vectorDttf.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_orsoc_graphics_accelerator/images/vectorfont-scale.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_orsoc_graphics_accelerator/image_categories/review/images/vectorfont-scale.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_orsoc_graphics_accelerator/images/vpstate.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_orsoc_graphics_accelerator/image_categories/review/images/vpstate.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_orsoc_graphics_accelerator/images/wb_compatible.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): compatible",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_orsoc_graphics_accelerator/image_categories/non_useful/images/wb_compatible.png"
+    }
+  ]
+}

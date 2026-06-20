@@ -1,0 +1,58 @@
+{
+  "summary": {
+    "useful": 0,
+    "not_useful": 0,
+    "uncertain": 6,
+    "total": 6
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_sdr_ctrl/images/Application-ReadRequest.jpg",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_sdr_ctrl/image_categories/review/images/Application-ReadRequest.jpg"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_sdr_ctrl/images/Application-WriteRequest.jpg",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_sdr_ctrl/image_categories/review/images/Application-WriteRequest.jpg"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_sdr_ctrl/images/SDR-16Bit-Read-Transaction.jpg",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_sdr_ctrl/image_categories/review/images/SDR-16Bit-Read-Transaction.jpg"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_sdr_ctrl/images/SDR-16Bit-Write-Transaction.jpg",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_sdr_ctrl/image_categories/review/images/SDR-16Bit-Write-Transaction.jpg"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_sdr_ctrl/images/SDR-32Bit-Read-Transaction.jpg",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_sdr_ctrl/image_categories/review/images/SDR-32Bit-Read-Transaction.jpg"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_sdr_ctrl/images/SDR-32Bit-Write-Transaction.jpg",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_sdr_ctrl/image_categories/review/images/SDR-32Bit-Write-Transaction.jpg"
+    }
+  ]
+}

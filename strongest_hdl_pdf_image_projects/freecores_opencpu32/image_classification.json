@@ -1,0 +1,58 @@
+{
+  "summary": {
+    "useful": 0,
+    "not_useful": 0,
+    "uncertain": 6,
+    "total": 6
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_opencpu32/images/Cache.JPG",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_opencpu32/image_categories/review/images/Cache.JPG"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_opencpu32/images/Diagrama_Blocos_2.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_opencpu32/image_categories/review/images/Diagrama_Blocos_2.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_opencpu32/images/Harvard.jpg",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_opencpu32/image_categories/review/images/Harvard.jpg"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_opencpu32/images/Multiplexer2.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_opencpu32/image_categories/review/images/Multiplexer2.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_opencpu32/images/shifts_rotates.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_opencpu32/image_categories/review/images/shifts_rotates.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_opencpu32/images/vonNeumann.jpg",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_opencpu32/image_categories/review/images/vonNeumann.jpg"
+    }
+  ]
+}

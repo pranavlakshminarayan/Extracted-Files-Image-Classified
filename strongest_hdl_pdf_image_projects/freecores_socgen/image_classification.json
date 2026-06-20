@@ -1,0 +1,354 @@
+{
+  "summary": {
+    "useful": 0,
+    "not_useful": 0,
+    "uncertain": 43,
+    "total": 43
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_socgen/images/cde_asyncdisable.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_socgen/image_categories/review/images/cde_asyncdisable.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_socgen/images/cde_clk_diff_testmux.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_socgen/image_categories/review/images/cde_clk_diff_testmux.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_socgen/images/cde_clk_gater.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_socgen/image_categories/review/images/cde_clk_gater.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_socgen/images/cde_clk_testmux.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_socgen/image_categories/review/images/cde_clk_testmux.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_socgen/images/cde_clock_sys.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_socgen/image_categories/review/images/cde_clock_sys.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_socgen/images/cde_divider.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_socgen/image_categories/review/images/cde_divider.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_socgen/images/cde_jtag.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_socgen/image_categories/review/images/cde_jtag.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_socgen/images/cde_jtag_rpc_reg.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_socgen/image_categories/review/images/cde_jtag_rpc_reg.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_socgen/images/cde_lifo.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_socgen/image_categories/review/images/cde_lifo.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_socgen/images/cde_pad_se_dig.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_socgen/image_categories/review/images/cde_pad_se_dig.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_socgen/images/cde_prescale.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_socgen/image_categories/review/images/cde_prescale.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_socgen/images/cde_reset.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_socgen/image_categories/review/images/cde_reset.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_socgen/images/cde_serial_rcvr.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_socgen/image_categories/review/images/cde_serial_rcvr.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_socgen/images/cde_serial_xmit.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_socgen/image_categories/review/images/cde_serial_xmit.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_socgen/images/cde_sram.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_socgen/image_categories/review/images/cde_sram.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_socgen/images/cde_sync.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_socgen/image_categories/review/images/cde_sync.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_socgen/images/cde_sync_with_hysteresis.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_socgen/image_categories/review/images/cde_sync_with_hysteresis.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_socgen/images/cde_sync_with_reset.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_socgen/image_categories/review/images/cde_sync_with_reset.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_socgen/images/data_fig1.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_socgen/image_categories/review/images/data_fig1.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_socgen/images/data_fig2.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_socgen/image_categories/review/images/data_fig2.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_socgen/images/disp_io.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_socgen/image_categories/review/images/disp_io.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_socgen/images/doc_fig1.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_socgen/image_categories/review/images/doc_fig1.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_socgen/images/io_module.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_socgen/image_categories/review/images/io_module.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_socgen/images/io_module_gpio.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_socgen/image_categories/review/images/io_module_gpio.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_socgen/images/io_module_pic.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_socgen/image_categories/review/images/io_module_pic.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_socgen/images/io_module_ps2.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_socgen/image_categories/review/images/io_module_ps2.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_socgen/images/io_module_timer.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_socgen/image_categories/review/images/io_module_timer.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_socgen/images/io_module_uart.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_socgen/image_categories/review/images/io_module_uart.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_socgen/images/io_module_utimer.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_socgen/image_categories/review/images/io_module_utimer.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_socgen/images/mrisc.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_socgen/image_categories/review/images/mrisc.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_socgen/images/naming_guide_1.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_socgen/image_categories/review/images/naming_guide_1.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_socgen/images/ps2_interface.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_socgen/image_categories/review/images/ps2_interface.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_socgen/images/reset_fig1.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_socgen/image_categories/review/images/reset_fig1.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_socgen/images/reset_fig2.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_socgen/image_categories/review/images/reset_fig2.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_socgen/images/serial_xmit.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_socgen/image_categories/review/images/serial_xmit.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_socgen/images/supply_chain.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_socgen/image_categories/review/images/supply_chain.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_socgen/images/uart.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_socgen/image_categories/review/images/uart.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_socgen/images/ver_fig1.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_socgen/image_categories/review/images/ver_fig1.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_socgen/images/ver_fig2.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_socgen/image_categories/review/images/ver_fig2.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_socgen/images/ver_fig3.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_socgen/image_categories/review/images/ver_fig3.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_socgen/images/ver_fig4.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_socgen/image_categories/review/images/ver_fig4.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_socgen/images/ver_fig5.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_socgen/image_categories/review/images/ver_fig5.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_socgen/images/ver_fig6.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_socgen/image_categories/review/images/ver_fig6.png"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "summary": {
+    "useful": 0,
+    "not_useful": 0,
+    "uncertain": 3,
+    "total": 3
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_sgmii/images/lpbff_wave0.jpg",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_sgmii/image_categories/review/images/lpbff_wave0.jpg"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_sgmii/images/lpbff_wave1.jpg",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_sgmii/image_categories/review/images/lpbff_wave1.jpg"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_sgmii/images/phy_int_bug.bmp",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_sgmii/image_categories/review/images/phy_int_bug.bmp"
+    }
+  ]
+}

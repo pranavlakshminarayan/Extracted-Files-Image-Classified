@@ -1,0 +1,42 @@
+{
+  "summary": {
+    "useful": 2,
+    "not_useful": 0,
+    "uncertain": 2,
+    "total": 4
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_pltbutils/images/example_transcript.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_pltbutils/image_categories/review/images/example_transcript.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_pltbutils/images/example_transcript_bugfixed.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_pltbutils/image_categories/review/images/example_transcript_bugfixed.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_pltbutils/images/example_wave.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): wave",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_pltbutils/image_categories/useful/images/example_wave.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_pltbutils/images/example_wave_bugfixed.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): wave",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_pltbutils/image_categories/useful/images/example_wave_bugfixed.png"
+    }
+  ]
+}

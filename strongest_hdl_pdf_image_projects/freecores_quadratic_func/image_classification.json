@@ -1,0 +1,26 @@
+{
+  "summary": {
+    "useful": 1,
+    "not_useful": 0,
+    "uncertain": 1,
+    "total": 2
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_quadratic_func/images/quadratic_func_block_diag.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): block",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_quadratic_func/image_categories/useful/images/quadratic_func_block_diag.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_quadratic_func/images/quadratic_plot.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_quadratic_func/image_categories/review/images/quadratic_plot.png"
+    }
+  ]
+}

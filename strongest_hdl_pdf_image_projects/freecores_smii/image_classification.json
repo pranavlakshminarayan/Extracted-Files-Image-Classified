@@ -1,0 +1,34 @@
+{
+  "summary": {
+    "useful": 1,
+    "not_useful": 0,
+    "uncertain": 2,
+    "total": 3
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_smii/images/block.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): block",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_smii/image_categories/useful/images/block.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_smii/images/rx.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_smii/image_categories/review/images/rx.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_smii/images/tx.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_smii/image_categories/review/images/tx.png"
+    }
+  ]
+}

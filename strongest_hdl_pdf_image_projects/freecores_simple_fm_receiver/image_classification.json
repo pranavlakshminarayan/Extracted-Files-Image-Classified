@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "useful": 0,
+    "not_useful": 1,
+    "uncertain": 0,
+    "total": 1
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_simple_fm_receiver/images/screenshot-20050323.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): screenshot",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_simple_fm_receiver/image_categories/non_useful/images/screenshot-20050323.png"
+    }
+  ]
+}
