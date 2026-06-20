@@ -1,0 +1,26 @@
+{
+  "summary": {
+    "useful": 2,
+    "not_useful": 0,
+    "uncertain": 0,
+    "total": 2
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_baudgen/images/wave_1.bmp",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): wave",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_baudgen/image_categories/useful/images/wave_1.bmp"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_baudgen/images/wave_2.bmp",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): wave",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_baudgen/image_categories/useful/images/wave_2.bmp"
+    }
+  ]
+}

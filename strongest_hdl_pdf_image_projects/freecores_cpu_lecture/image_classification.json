@@ -1,0 +1,130 @@
+{
+  "summary": {
+    "useful": 0,
+    "not_useful": 0,
+    "uncertain": 15,
+    "total": 15
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_cpu_lecture/images/Component_tree.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_cpu_lecture/image_categories/review/images/Component_tree.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_cpu_lecture/images/GTKWave.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_cpu_lecture/image_categories/review/images/GTKWave.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_cpu_lecture/images/avr_fpga.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_cpu_lecture/image_categories/review/images/avr_fpga.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_cpu_lecture/images/cpu_core_1.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_cpu_lecture/image_categories/review/images/cpu_core_1.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_cpu_lecture/images/cpu_core_2.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_cpu_lecture/image_categories/review/images/cpu_core_2.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_cpu_lecture/images/data_path.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_cpu_lecture/image_categories/review/images/data_path.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_cpu_lecture/images/data_path_1.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_cpu_lecture/image_categories/review/images/data_path_1.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_cpu_lecture/images/data_path_2.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_cpu_lecture/image_categories/review/images/data_path_2.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_cpu_lecture/images/opcode_decoder_1.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_cpu_lecture/image_categories/review/images/opcode_decoder_1.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_cpu_lecture/images/opcode_fetch_1.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_cpu_lecture/image_categories/review/images/opcode_fetch_1.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_cpu_lecture/images/opcode_fetch_2.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_cpu_lecture/image_categories/review/images/opcode_fetch_2.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_cpu_lecture/images/pipelining_1.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_cpu_lecture/image_categories/review/images/pipelining_1.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_cpu_lecture/images/pipelining_2.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_cpu_lecture/image_categories/review/images/pipelining_2.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_cpu_lecture/images/pipelining_3.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_cpu_lecture/image_categories/review/images/pipelining_3.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_cpu_lecture/images/toolchain_1.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_cpu_lecture/image_categories/review/images/toolchain_1.png"
+    }
+  ]
+}

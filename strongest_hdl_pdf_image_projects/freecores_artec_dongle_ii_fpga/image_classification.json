@@ -1,0 +1,26 @@
+{
+  "summary": {
+    "useful": 0,
+    "not_useful": 1,
+    "uncertain": 1,
+    "total": 2
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_artec_dongle_ii_fpga/images/dongle_board_base.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): board",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_artec_dongle_ii_fpga/image_categories/non_useful/images/dongle_board_base.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_artec_dongle_ii_fpga/images/fifo_wave0.jpg",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_artec_dongle_ii_fpga/image_categories/review/images/fifo_wave0.jpg"
+    }
+  ]
+}

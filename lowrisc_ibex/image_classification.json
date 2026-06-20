@@ -1,0 +1,154 @@
+{
+  "summary": {
+    "useful": 6,
+    "not_useful": 1,
+    "uncertain": 11,
+    "total": 18
+  },
+  "images": [
+    {
+      "path": "lowrisc_ibex/Extra/Additional_data/images/doc/03_reference/images/logo.svg",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): logo",
+      "moved_to": "lowrisc_ibex/image_categories/non_useful/Extra/Additional_data/images/doc/03_reference/images/logo.svg"
+    },
+    {
+      "path": "lowrisc_ibex/Extra/Additional_data/images/doc/03_reference/images/tb2.svg",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "could not decode image (install svglib/cairosvg for SVG)",
+      "moved_to": "lowrisc_ibex/image_categories/review/Extra/Additional_data/images/doc/03_reference/images/tb2.svg"
+    },
+    {
+      "path": "lowrisc_ibex/Extra/Additional_data/images/vendor/eembc_coremark/docs/balance_O0_joined.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "lowrisc_ibex/image_categories/review/Extra/Additional_data/images/vendor/eembc_coremark/docs/balance_O0_joined.png"
+    },
+    {
+      "path": "lowrisc_ibex/Extra/Additional_data/images/vendor/eembc_coremark/docs/coremark_profile_o0_joined.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "lowrisc_ibex/image_categories/review/Extra/Additional_data/images/vendor/eembc_coremark/docs/coremark_profile_o0_joined.png"
+    },
+    {
+      "path": "lowrisc_ibex/Extra/Additional_data/images/vendor/eembc_coremark/docs/html/files/docs/core_state.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): state",
+      "moved_to": "lowrisc_ibex/image_categories/useful/Extra/Additional_data/images/vendor/eembc_coremark/docs/html/files/docs/core_state.png"
+    },
+    {
+      "path": "lowrisc_ibex/Extra/Additional_data/images/vendor/google_riscv-dv/docs/source/trace_csv.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "lowrisc_ibex/image_categories/review/Extra/Additional_data/images/vendor/google_riscv-dv/docs/source/trace_csv.png"
+    },
+    {
+      "path": "lowrisc_ibex/Extra/Additional_data/images/vendor/lowrisc_ip/dv/sv/common_ifs/pins_if.svg",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "could not decode image (install svglib/cairosvg for SVG)",
+      "moved_to": "lowrisc_ibex/image_categories/review/Extra/Additional_data/images/vendor/lowrisc_ip/dv/sv/common_ifs/pins_if.svg"
+    },
+    {
+      "path": "lowrisc_ibex/Extra/Additional_data/images/vendor/lowrisc_ip/util/dvsim/doc/architecture.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): architecture",
+      "moved_to": "lowrisc_ibex/image_categories/useful/Extra/Additional_data/images/vendor/lowrisc_ip/util/dvsim/doc/architecture.png"
+    },
+    {
+      "path": "lowrisc_ibex/Extra/Additional_data/images/vendor/riscv-arch-tests/doc/file-struct.jpg",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): arch",
+      "moved_to": "lowrisc_ibex/image_categories/useful/Extra/Additional_data/images/vendor/riscv-arch-tests/doc/file-struct.jpg"
+    },
+    {
+      "path": "lowrisc_ibex/Extra/Additional_data/images/vendor/riscv-arch-tests/spec/testpool.jpg",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): arch",
+      "moved_to": "lowrisc_ibex/image_categories/useful/Extra/Additional_data/images/vendor/riscv-arch-tests/spec/testpool.jpg"
+    },
+    {
+      "path": "lowrisc_ibex/Projects/blockdiagram/images/doc/03_reference/images/blockdiagram.svg",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): blockdiagram",
+      "moved_to": "lowrisc_ibex/image_categories/useful/Projects/blockdiagram/images/doc/03_reference/images/blockdiagram.svg"
+    },
+    {
+      "path": "lowrisc_ibex/Projects/dv_flow/images/doc/03_reference/images/dv-flow.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "lowrisc_ibex/image_categories/review/Projects/dv_flow/images/doc/03_reference/images/dv-flow.png"
+    },
+    {
+      "path": "lowrisc_ibex/Projects/icache/images/doc/03_reference/images/icache_block.svg",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): block",
+      "moved_to": "lowrisc_ibex/image_categories/useful/Projects/icache/images/doc/03_reference/images/icache_block.svg"
+    },
+    {
+      "path": "lowrisc_ibex/Projects/icache/images/doc/03_reference/images/icache_mux.svg",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "could not decode image (install svglib/cairosvg for SVG)",
+      "moved_to": "lowrisc_ibex/image_categories/review/Projects/icache/images/doc/03_reference/images/icache_mux.svg"
+    },
+    {
+      "path": "lowrisc_ibex/Projects/icache/images/doc/03_reference/images/tb.svg",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "could not decode image (install svglib/cairosvg for SVG)",
+      "moved_to": "lowrisc_ibex/image_categories/review/Projects/icache/images/doc/03_reference/images/tb.svg"
+    },
+    {
+      "path": "lowrisc_ibex/Projects/icache/images/dv/uvm/icache/doc/tb.svg",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "could not decode image (install svglib/cairosvg for SVG)",
+      "moved_to": "lowrisc_ibex/image_categories/review/Projects/icache/images/dv/uvm/icache/doc/tb.svg"
+    },
+    {
+      "path": "lowrisc_ibex/Projects/instruction_decode_execute/images/doc/03_reference/images/de_ex_stage.svg",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "could not decode image (install svglib/cairosvg for SVG)",
+      "moved_to": "lowrisc_ibex/image_categories/review/Projects/instruction_decode_execute/images/doc/03_reference/images/de_ex_stage.svg"
+    },
+    {
+      "path": "lowrisc_ibex/Projects/instruction_fetch/images/doc/03_reference/images/if_stage.svg",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "could not decode image (install svglib/cairosvg for SVG)",
+      "moved_to": "lowrisc_ibex/image_categories/review/Projects/instruction_fetch/images/doc/03_reference/images/if_stage.svg"
+    }
+  ]
+}

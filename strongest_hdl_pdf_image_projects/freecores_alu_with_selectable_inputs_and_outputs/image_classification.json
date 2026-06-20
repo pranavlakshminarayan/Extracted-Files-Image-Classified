@@ -1,0 +1,58 @@
+{
+  "summary": {
+    "useful": 0,
+    "not_useful": 1,
+    "uncertain": 5,
+    "total": 6
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_alu_with_selectable_inputs_and_outputs/images/ASICArt.jpg",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): asicart",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_alu_with_selectable_inputs_and_outputs/image_categories/non_useful/images/ASICArt.jpg"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_alu_with_selectable_inputs_and_outputs/images/Design_and_verification_env.jpg",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_alu_with_selectable_inputs_and_outputs/image_categories/review/images/Design_and_verification_env.jpg"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_alu_with_selectable_inputs_and_outputs/images/alu.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_alu_with_selectable_inputs_and_outputs/image_categories/review/images/alu.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_alu_with_selectable_inputs_and_outputs/images/dmux.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_alu_with_selectable_inputs_and_outputs/image_categories/review/images/dmux.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_alu_with_selectable_inputs_and_outputs/images/dut.jpg",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_alu_with_selectable_inputs_and_outputs/image_categories/review/images/dut.jpg"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_alu_with_selectable_inputs_and_outputs/images/selector.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_alu_with_selectable_inputs_and_outputs/image_categories/review/images/selector.png"
+    }
+  ]
+}

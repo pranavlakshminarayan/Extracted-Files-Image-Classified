@@ -1,0 +1,362 @@
+{
+  "summary": {
+    "useful": 1,
+    "not_useful": 36,
+    "uncertain": 7,
+    "total": 44
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_avs_aes/images/AEStester_8c__incl.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_avs_aes/image_categories/review/images/AEStester_8c__incl.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_avs_aes/images/CoreEncDP.svg",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "could not decode image (install svglib/cairosvg for SVG)",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_avs_aes/image_categories/review/images/CoreEncDP.svg"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_avs_aes/images/avs__aes_8c__incl.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_avs_aes/image_categories/review/images/avs__aes_8c__incl.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_avs_aes/images/avs__aes_8h__dep__incl.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_avs_aes/image_categories/review/images/avs__aes_8h__dep__incl.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_avs_aes/images/bc_s.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 8x30",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_avs_aes/image_categories/non_useful/images/bc_s.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_avs_aes/images/bdwn.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 7x8",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_avs_aes/image_categories/non_useful/images/bdwn.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_avs_aes/images/closed.gif",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 9x9",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_avs_aes/image_categories/non_useful/images/closed.gif"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_avs_aes/images/closed.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 9x9",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_avs_aes/image_categories/non_useful/images/closed.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_avs_aes/images/doxygen.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): doxygen",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_avs_aes/image_categories/non_useful/images/doxygen.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_avs_aes/images/encrypt_FSM.jpg",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): fsm",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_avs_aes/image_categories/useful/images/encrypt_FSM.jpg"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_avs_aes/images/fancy_headsep.svg",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "could not decode image (install svglib/cairosvg for SVG)",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_avs_aes/image_categories/review/images/fancy_headsep.svg"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_avs_aes/images/fancy_headsep_r.jpg",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 765x15",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_avs_aes/image_categories/non_useful/images/fancy_headsep_r.jpg"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_avs_aes/images/ftv2blank.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 16x22",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_avs_aes/image_categories/non_useful/images/ftv2blank.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_avs_aes/images/ftv2cl.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 24x22",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_avs_aes/image_categories/non_useful/images/ftv2cl.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_avs_aes/images/ftv2doc.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 24x22",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_avs_aes/image_categories/non_useful/images/ftv2doc.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_avs_aes/images/ftv2folderclosed.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 24x22",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_avs_aes/image_categories/non_useful/images/ftv2folderclosed.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_avs_aes/images/ftv2folderopen.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 24x22",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_avs_aes/image_categories/non_useful/images/ftv2folderopen.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_avs_aes/images/ftv2lastnode.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 16x22",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_avs_aes/image_categories/non_useful/images/ftv2lastnode.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_avs_aes/images/ftv2link.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 24x22",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_avs_aes/image_categories/non_useful/images/ftv2link.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_avs_aes/images/ftv2mlastnode.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 16x22",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_avs_aes/image_categories/non_useful/images/ftv2mlastnode.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_avs_aes/images/ftv2mnode.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 16x22",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_avs_aes/image_categories/non_useful/images/ftv2mnode.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_avs_aes/images/ftv2mo.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 24x22",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_avs_aes/image_categories/non_useful/images/ftv2mo.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_avs_aes/images/ftv2node.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 16x22",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_avs_aes/image_categories/non_useful/images/ftv2node.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_avs_aes/images/ftv2ns.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 24x22",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_avs_aes/image_categories/non_useful/images/ftv2ns.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_avs_aes/images/ftv2plastnode.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 16x22",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_avs_aes/image_categories/non_useful/images/ftv2plastnode.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_avs_aes/images/ftv2pnode.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 16x22",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_avs_aes/image_categories/non_useful/images/ftv2pnode.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_avs_aes/images/ftv2splitbar.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 6x1024",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_avs_aes/image_categories/non_useful/images/ftv2splitbar.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_avs_aes/images/ftv2vertline.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 16x22",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_avs_aes/image_categories/non_useful/images/ftv2vertline.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_avs_aes/images/graph_legend.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_avs_aes/image_categories/review/images/graph_legend.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_avs_aes/images/logo.jpg",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): logo",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_avs_aes/image_categories/non_useful/images/logo.jpg"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_avs_aes/images/nav_f.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 1x56",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_avs_aes/image_categories/non_useful/images/nav_f.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_avs_aes/images/nav_g.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 1x6",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_avs_aes/image_categories/non_useful/images/nav_g.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_avs_aes/images/nav_h.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 1x12",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_avs_aes/image_categories/non_useful/images/nav_h.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_avs_aes/images/open.gif",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 9x9",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_avs_aes/image_categories/non_useful/images/open.gif"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_avs_aes/images/open.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 9x9",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_avs_aes/image_categories/non_useful/images/open.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_avs_aes/images/sync_off.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 24x24",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_avs_aes/image_categories/non_useful/images/sync_off.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_avs_aes/images/sync_on.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 24x24",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_avs_aes/image_categories/non_useful/images/sync_on.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_avs_aes/images/tab_a.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 1x36",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_avs_aes/image_categories/non_useful/images/tab_a.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_avs_aes/images/tab_b.gif",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 1x1",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_avs_aes/image_categories/non_useful/images/tab_b.gif"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_avs_aes/images/tab_b.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 1x36",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_avs_aes/image_categories/non_useful/images/tab_b.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_avs_aes/images/tab_h.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 1x36",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_avs_aes/image_categories/non_useful/images/tab_h.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_avs_aes/images/tab_l.gif",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 9x300",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_avs_aes/image_categories/non_useful/images/tab_l.gif"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_avs_aes/images/tab_r.gif",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_avs_aes/image_categories/review/images/tab_r.gif"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_avs_aes/images/tab_s.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 1x36",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_avs_aes/image_categories/non_useful/images/tab_s.png"
+    }
+  ]
+}

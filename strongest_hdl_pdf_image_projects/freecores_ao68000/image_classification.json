@@ -1,0 +1,186 @@
+{
+  "summary": {
+    "useful": 1,
+    "not_useful": 12,
+    "uncertain": 9,
+    "total": 22
+  },
+  "images": [
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_ao68000/images/architecture.png",
+      "label": "useful",
+      "confidence": 0.85,
+      "method": "keyword",
+      "reason": "filename keyword(s): architecture",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_ao68000/image_categories/useful/images/architecture.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_ao68000/images/bc_s.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 8x32",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_ao68000/image_categories/non_useful/images/bc_s.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_ao68000/images/classalu.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_ao68000/image_categories/review/images/classalu.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_ao68000/images/classao68000.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_ao68000/image_categories/review/images/classao68000.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_ao68000/images/classbus__control.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_ao68000/image_categories/review/images/classbus__control.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_ao68000/images/classcondition.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_ao68000/image_categories/review/images/classcondition.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_ao68000/images/classdecoder.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_ao68000/image_categories/review/images/classdecoder.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_ao68000/images/classmemory__registers.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_ao68000/image_categories/review/images/classmemory__registers.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_ao68000/images/classmicrocode__branch.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_ao68000/image_categories/review/images/classmicrocode__branch.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_ao68000/images/classregisters.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_ao68000/image_categories/review/images/classregisters.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_ao68000/images/closed.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 9x9",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_ao68000/image_categories/non_useful/images/closed.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_ao68000/images/doxygen.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): doxygen",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_ao68000/image_categories/non_useful/images/doxygen.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_ao68000/images/nav_f.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 1x56",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_ao68000/image_categories/non_useful/images/nav_f.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_ao68000/images/nav_h.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 1x12",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_ao68000/image_categories/non_useful/images/nav_h.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_ao68000/images/open.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 9x9",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_ao68000/image_categories/non_useful/images/open.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_ao68000/images/opencores.jpg",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): opencores",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_ao68000/image_categories/non_useful/images/opencores.jpg"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_ao68000/images/structure.png",
+      "label": "uncertain",
+      "confidence": 0.0,
+      "method": "default",
+      "reason": "no decisive keyword, feature, or vision signal",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_ao68000/image_categories/review/images/structure.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_ao68000/images/tab_a.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 1x36",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_ao68000/image_categories/non_useful/images/tab_a.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_ao68000/images/tab_b.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 1x36",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_ao68000/image_categories/non_useful/images/tab_b.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_ao68000/images/tab_h.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 1x36",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_ao68000/image_categories/non_useful/images/tab_h.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_ao68000/images/tab_s.png",
+      "label": "not_useful",
+      "confidence": 0.95,
+      "method": "dimensions",
+      "reason": "tiny image dimensions 1x36",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_ao68000/image_categories/non_useful/images/tab_s.png"
+    },
+    {
+      "path": "strongest_hdl_pdf_image_projects/freecores_ao68000/images/wishbone_compatible.png",
+      "label": "not_useful",
+      "confidence": 0.9,
+      "method": "keyword",
+      "reason": "filename keyword(s): compatible",
+      "moved_to": "strongest_hdl_pdf_image_projects/freecores_ao68000/image_categories/non_useful/images/wishbone_compatible.png"
+    }
+  ]
+}
